@@ -1,0 +1,24 @@
+# Configuration for model training
+dataset: 10GMNER # (10GMNER, 20GMNER, 40GMNER, GMNER, 10FMNERG, 20FMNERG, 40FMNERG, FMNERG, 10-T15, 20-T15, 40-T15, T15)
+model_name_or_path: Salesforce/instructblip-flan-t5-xl
+text_dir: ../dataset # Path to text annotations
+image_dir: twitter_images/twitterFGMNER  # Path to image
+image_annotation_path: dataset/fine-grained/FMNERG/xml # Path to image annotations
+data_format: json  # Format of the training data: "json" or "csv"
+save_steps: 500  # Save model checkpoint every X steps
+run_mode: do_inference # run code to (do_train, do_train_inference, do_inference)
+task: gmner # Downstream task (fmnerg, gmner)
+seed: 42
+load_checkpoint: output_dir/..pt # checkpoint path for do_inference run_mode
+trainable_mode: lora 
+
+
+training_argument:
+  trainable_mode: lora 
+  output_dir: ./output_dir  # Directory to save model and logs
+  train_batch_size: 2  # Training batch size
+  eval_batch_size: 2  # Eval batch size
+  learning_rate: 0.00005  # Learning rate
+  num_train_epochs: 10  # Number of training epochs
+  eval_delay: 5 #  Number of epochs or steps to wait for before the first evaluation can be performed, depending on the evaluation_strategy.
+  num_return_sequences: 5
