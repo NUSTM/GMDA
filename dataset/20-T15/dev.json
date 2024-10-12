@@ -1,0 +1,2460 @@
+[
+  {
+    "img_id": "373081",
+    "sentence": "RT @WSJ : About half of the energy produced in the United States comes from just five states . http://t.co/PH9NyL3PJV http://t.co/n2aX0iGW8r",
+    "entities": [
+      {
+        "text": "United States",
+        "tag": "LOC"
+      },
+      {
+        "text": "states",
+        "tag": "LOC"
+      }
+    ]
+  },
+  {
+    "img_id": "662770",
+    "sentence": "Isabella Hill not Grape ! http://t.co/F5cCCV8t",
+    "entities": []
+  },
+  {
+    "img_id": "118452",
+    "sentence": "RT @engadget : Miami cops flood Waze with fake police sightings http://t.co/LT7v2kWS8S http://t.co/HTqe3WGiO0",
+    "entities": [
+      {
+        "text": "Miami",
+        "tag": "LOC"
+      },
+      {
+        "text": "Waze",
+        "tag": "OTHER"
+      }
+    ]
+  },
+  {
+    "img_id": "322714",
+    "sentence": "RT @rockpool8 : Wed Times front page : Almost half of teenage girls coerced into sex acts #bbcpapers http://t.co/cPCXD0P00x",
+    "entities": [
+      {
+        "text": "Wed Times",
+        "tag": "ORG"
+      }
+    ]
+  },
+  {
+    "img_id": "71994",
+    "sentence": "RT @NLNavyNews : #OTD 1944 Allies advance into Belgium . Dutch minesweepers clear the Scheldt to enable the use of port of Antwerp http://t.c…",
+    "entities": [
+      {
+        "text": "Belgium",
+        "tag": "LOC"
+      },
+      {
+        "text": "Scheldt",
+        "tag": "LOC"
+      },
+      {
+        "text": "of",
+        "tag": "LOC"
+      },
+      {
+        "text": "port of Antwerp",
+        "tag": "LOC"
+      }
+    ]
+  },
+  {
+    "img_id": "600094",
+    "sentence": "RT @NewHavenPromise : Yale President Rick Levin addresses the new Passport to Promise . http://t.co/aU3nXekJmD",
+    "entities": [
+      {
+        "text": "President Rick Levin",
+        "tag": "PER"
+      }
+    ]
+  },
+  {
+    "img_id": "1002916",
+    "sentence": "RT @LAMAconcept : CELL#LEDcarpet in exhibition Liberation of Light China Guangzhou Design Week . http://t.co/qHoIbYPq http://t.co/CNjQ85ru ...",
+    "entities": [
+      {
+        "text": "Light China Guangzhou Design Week",
+        "tag": "OTHER"
+      }
+    ]
+  },
+  {
+    "img_id": "22021",
+    "sentence": "This must be the worst Korean BBQ I have EVER had http://t.co/OqUHKDLZkw",
+    "entities": [
+      {
+        "text": "Korean BBQ",
+        "tag": "OTHER"
+      }
+    ]
+  },
+  {
+    "img_id": "838099",
+    "sentence": "RT @ddangatti : This why Michael Vick will never prosper http://t.co/e7eYXL65LD",
+    "entities": [
+      {
+        "text": "Michael Vick",
+        "tag": "PER"
+      }
+    ]
+  },
+  {
+    "img_id": "1994435",
+    "sentence": "Vintage advertising illustrations by Jeff Foster http://t.co/e5NULuOJBs http://t.co/I2PkWTCCAt",
+    "entities": [
+      {
+        "text": "Jeff Foster",
+        "tag": "PER"
+      }
+    ]
+  },
+  {
+    "img_id": "1291551",
+    "sentence": "Jasmine and I are bowing our heads and saying Grace , before we eat . http://t.co/Afsma7V8MO",
+    "entities": [
+      {
+        "text": "Jasmine",
+        "tag": "PER"
+      },
+      {
+        "text": "Grace",
+        "tag": "PER"
+      }
+    ]
+  },
+  {
+    "img_id": "62411",
+    "sentence": "RT @FoxNews : . @CarlyFiorina says we need to be aware that China and Russia are using technology to attack America . #GOPDebate http://t.co/1…",
+    "entities": [
+      {
+        "text": "China",
+        "tag": "LOC"
+      },
+      {
+        "text": "Russia",
+        "tag": "LOC"
+      },
+      {
+        "text": "America",
+        "tag": "LOC"
+      }
+    ]
+  },
+  {
+    "img_id": "1046890",
+    "sentence": "RT @wbir : A person in a wheelchair is apparently robbing homes in Charlotte , NC . DETAILS : http://t.co/PkMUCapp6A http://t.co/pOM69bCwRF",
+    "entities": [
+      {
+        "text": "NC",
+        "tag": "LOC"
+      }
+    ]
+  },
+  {
+    "img_id": "1777996",
+    "sentence": "Happy to announce Wezi Wezi as Successful business financed by early stage investors #EBAN2015 #AngelSummit http://t.co/ThHBGVH6ph",
+    "entities": [
+      {
+        "text": "Wezi Wezi",
+        "tag": "PER"
+      }
+    ]
+  },
+  {
+    "img_id": "2060244",
+    "sentence": "RT @SuptSAU55 : Sandown North new theme ! #timberlane http://t.co/qWvr2QGgGm",
+    "entities": [
+      {
+        "text": "Sandown North",
+        "tag": "ORG"
+      }
+    ]
+  },
+  {
+    "img_id": "886055",
+    "sentence": "Spending some time with Ken Burns this morning before heading to church . #Baseball #History http://t.co/ivs45n4A6m",
+    "entities": [
+      {
+        "text": "Ken Burns",
+        "tag": "PER"
+      }
+    ]
+  },
+  {
+    "img_id": "282783",
+    "sentence": "3 Days Trip to Shogran , Kaghan , Naran ! ( All in One ) just for 6900 https : //t . co/PZY12DluLC @sehrkashmiri @habibswati126 http://t.co/3qJE5gEjT2",
+    "entities": [
+      {
+        "text": "Shogran",
+        "tag": "LOC"
+      },
+      {
+        "text": "Kaghan",
+        "tag": "LOC"
+      },
+      {
+        "text": "Naran",
+        "tag": "LOC"
+      }
+    ]
+  },
+  {
+    "img_id": "1015589",
+    "sentence": "RT @MLBFanCave : Happy 24th birthday to @Cubs SS Starlin Castro . http://t.co/P1TzYv0N5b",
+    "entities": [
+      {
+        "text": "Starlin Castro",
+        "tag": "PER"
+      }
+    ]
+  },
+  {
+    "img_id": "12608",
+    "sentence": "Meanwhile in Indianapolis http://t.co/2713OmwoXh",
+    "entities": [
+      {
+        "text": "Indianapolis",
+        "tag": "LOC"
+      }
+    ]
+  },
+  {
+    "img_id": "1027807",
+    "sentence": "@grahammctavish @MiddleArt Haha , I suppose that #Wolverine is very similar of #Dwalin #dwarf http://t.co/IXb789syPe",
+    "entities": [
+      {
+        "text": "#Wolverine",
+        "tag": "OTHER"
+      },
+      {
+        "text": "#Dwalin",
+        "tag": "OTHER"
+      }
+    ]
+  },
+  {
+    "img_id": "72684",
+    "sentence": "RT @HistoryInPics : Childhood photo of Kurt Cobain http://t.co/XjNGUiZi5m",
+    "entities": [
+      {
+        "text": "Kurt Cobain",
+        "tag": "PER"
+      }
+    ]
+  },
+  {
+    "img_id": "445745",
+    "sentence": "RT @ManometCenter : Massachusetts \" Buy Local \" Groups Receive $ 300K in Grants @ecoRInews http://t.co/xg7IYQtWMR http://t.co/64qDCihft9",
+    "entities": [
+      {
+        "text": "Massachusetts",
+        "tag": "LOC"
+      }
+    ]
+  },
+  {
+    "img_id": "128269",
+    "sentence": "RT @AdhamTFusama : People Power . You cant stop it . Damn , I got chill ! #JokowiJK _ ADALAHKITA #TegasPilih2 http://t.co/7ZhBegyY7Z",
+    "entities": [
+      {
+        "text": "People Power",
+        "tag": "ORG"
+      }
+    ]
+  },
+  {
+    "img_id": "70933",
+    "sentence": "Gallery/blog : Photographing the #Blackhawks week in my Tampa return for the Stanley Cup Final http://t.co/RdkBvZI5AJ http://t.co/is43uKmsFO",
+    "entities": [
+      {
+        "text": "#Blackhawks",
+        "tag": "ORG"
+      },
+      {
+        "text": "Tampa",
+        "tag": "LOC"
+      },
+      {
+        "text": "Stanley Cup",
+        "tag": "OTHER"
+      }
+    ]
+  },
+  {
+    "img_id": "15107",
+    "sentence": "RT @DiscGolf4Women : \" The Lure of Golf \" - So True #DiscGolf http://t.co/qT86QTrtKO",
+    "entities": [
+      {
+        "text": "The Lure of Golf",
+        "tag": "OTHER"
+      }
+    ]
+  },
+  {
+    "img_id": "1123544",
+    "sentence": "RT @jacqs _ sutherlan : Afternoon Tea at Prestonfield House with @IanMRSutherland #afternoontea #NewYearCelebration http://t.co/rhyj1Erp",
+    "entities": []
+  },
+  {
+    "img_id": "1083627",
+    "sentence": "Lola loves #DressUpYourPetDay ! #tylerpets http://t.co/W4rQ5QifUG",
+    "entities": [
+      {
+        "text": "Lola",
+        "tag": "OTHER"
+      }
+    ]
+  },
+  {
+    "img_id": "1903234",
+    "sentence": "RT @abidifactor : Ch . Nisar is trolling Sindh Government now . http://t.co/Ogvdf7FP24",
+    "entities": [
+      {
+        "text": "Nisar",
+        "tag": "PER"
+      },
+      {
+        "text": "Sindh",
+        "tag": "LOC"
+      }
+    ]
+  },
+  {
+    "img_id": "636230",
+    "sentence": "RT @jvreyes12 : Congrats Lynna Irby 2015 100 meter dash Regional Champion wit a time of 12 . 06 http://t.co/bVfG4PtfCX",
+    "entities": []
+  },
+  {
+    "img_id": "24160",
+    "sentence": "RT @vicenews : Coming soon : We travel to Russia to investigate its ghost army in Ukraine : http://t.co/c09EFHxw7t http://t.co/MKGNr53kuh",
+    "entities": [
+      {
+        "text": "Russia",
+        "tag": "LOC"
+      },
+      {
+        "text": "Ukraine",
+        "tag": "LOC"
+      }
+    ]
+  },
+  {
+    "img_id": "1811348",
+    "sentence": "Our greatest victories are won on our knees and with empty stomachs . ~ Julio C . Ruibal #quote #prayer http://t.co/SW75GHkMqx",
+    "entities": [
+      {
+        "text": "Julio",
+        "tag": "PER"
+      },
+      {
+        "text": "Ruibal",
+        "tag": "PER"
+      }
+    ]
+  },
+  {
+    "img_id": "74115",
+    "sentence": "RT @SportsCenter : What a night for Gronk ! The Patriots TE catches 5 passes for 94 yards and 3 touchdowns in the season opener . http://t.co/…",
+    "entities": [
+      {
+        "text": "Gronk",
+        "tag": "PER"
+      },
+      {
+        "text": "Patriots",
+        "tag": "ORG"
+      }
+    ]
+  },
+  {
+    "img_id": "615077",
+    "sentence": "My winter wonderland in West Chelsea ! http://t.co/UMsGf7I778",
+    "entities": [
+      {
+        "text": "West Chelsea",
+        "tag": "LOC"
+      }
+    ]
+  },
+  {
+    "img_id": "629685",
+    "sentence": "RT @KelleySchool : In Times Square for the Closing Bell . Special thanks to @NASDAQ . http://t.co/a5byc565Mc",
+    "entities": [
+      {
+        "text": "Times Square",
+        "tag": "LOC"
+      },
+      {
+        "text": "Closing Bell",
+        "tag": "OTHER"
+      }
+    ]
+  },
+  {
+    "img_id": "736322",
+    "sentence": "A good novel begins with a small question and ends with a bigger one . Paula Fox #amwriting #writing http://t.co/ZbBqTInA5R",
+    "entities": [
+      {
+        "text": "Paula Fox",
+        "tag": "PER"
+      }
+    ]
+  },
+  {
+    "img_id": "6895",
+    "sentence": "RT @NYSAnimal : Wow RT @thaG5 : Lmao why is Freddy Kruger in Atlanta b ? http://t.co/t0ZE8R1bEI",
+    "entities": [
+      {
+        "text": "Freddy Kruger",
+        "tag": "PER"
+      },
+      {
+        "text": "Atlanta",
+        "tag": "LOC"
+      }
+    ]
+  },
+  {
+    "img_id": "1779909",
+    "sentence": "RT @HoopsHabit : LeBron James : Doing The Impossible #NBAFinals http://t.co/Yz5yXBZWxk -- @howevolution via @HoopsHabit http://t.co/6fXXrBZbgm",
+    "entities": [
+      {
+        "text": "LeBron James",
+        "tag": "PER"
+      }
+    ]
+  },
+  {
+    "img_id": "567075",
+    "sentence": "Omaha stylee http://t.co/Bm5NyfN8dw",
+    "entities": [
+      {
+        "text": "Omaha",
+        "tag": "LOC"
+      }
+    ]
+  },
+  {
+    "img_id": "143256",
+    "sentence": "@troyesivan Look ! #WILD is #7 in Canada ! http://t.co/NdtJ5gd62j",
+    "entities": [
+      {
+        "text": "#WILD",
+        "tag": "OTHER"
+      },
+      {
+        "text": "Canada",
+        "tag": "LOC"
+      }
+    ]
+  },
+  {
+    "img_id": "116446",
+    "sentence": "Meet our #luxury yachting partners at the Monaco #Yacht Show on now ! http://t.co/IsW9uSfj2Z #MYS2014 #MonacoYachtShow http://t.co/4wPxCPta9F",
+    "entities": [
+      {
+        "text": "Monaco",
+        "tag": "ORG"
+      }
+    ]
+  },
+  {
+    "img_id": "1351353",
+    "sentence": "Getting ready for #OneBillionRising Miami tomorrow ! http://t.co/tCeFtRVtrI",
+    "entities": [
+      {
+        "text": "Miami",
+        "tag": "LOC"
+      }
+    ]
+  },
+  {
+    "img_id": "687667",
+    "sentence": "RT @IAMFASHlON : Lupita wins . Everyone can go home now . @TheAcademy @Lupita _ Nyongo http://t.co/l7FMpWmuUv",
+    "entities": [
+      {
+        "text": "Lupita",
+        "tag": "PER"
+      }
+    ]
+  },
+  {
+    "img_id": "1355931",
+    "sentence": ". @usnews Ranks Moffitt Top Cancer Hospital in Florida #WeAreALLTampaBay @MoffittNews - http://t.co/f5TqAlOetN http://t.co/je3lMPYijM",
+    "entities": [
+      {
+        "text": "Florida",
+        "tag": "LOC"
+      }
+    ]
+  },
+  {
+    "img_id": "128452",
+    "sentence": "RT @NotableHistory : August 28 , 1955 - Emmett Till is kidnapped &amp ; lynched at age 14 , in Money Mississippi http://t.co/e3XAE8HWjr",
+    "entities": [
+      {
+        "text": "Emmett Till",
+        "tag": "PER"
+      },
+      {
+        "text": "Money Mississippi",
+        "tag": "LOC"
+      }
+    ]
+  },
+  {
+    "img_id": "124017",
+    "sentence": "Last Minute Market today in Lakewood , OH . . . complete with parade balloons ! http://t.co/Q2qfueEh",
+    "entities": [
+      {
+        "text": "Lakewood",
+        "tag": "LOC"
+      }
+    ]
+  },
+  {
+    "img_id": "421049",
+    "sentence": "Selfie time on FIELD TRIP FRIDAY from Flagstaff ! Head to Heritage Square now until 10 a . m . &amp ; say hi ! #3TVFieldTrip http://t.co/VBL7nBQmQ5",
+    "entities": [
+      {
+        "text": "FIELD TRIP FRIDAY",
+        "tag": "OTHER"
+      },
+      {
+        "text": "Heritage Square",
+        "tag": "LOC"
+      }
+    ]
+  },
+  {
+    "img_id": "34040",
+    "sentence": "RT @iIovenature : Kansas skies http://t.co/OWKxxYwO0g",
+    "entities": [
+      {
+        "text": "Kansas",
+        "tag": "LOC"
+      }
+    ]
+  },
+  {
+    "img_id": "14925",
+    "sentence": "RT @Eclectablog : . @RepRaulGrijalva : \" Sheriff Arpaio is a criminal with a badge \" http://t.co/vVvEwIBAPf",
+    "entities": [
+      {
+        "text": "Sheriff Arpaio",
+        "tag": "PER"
+      }
+    ]
+  },
+  {
+    "img_id": "41879",
+    "sentence": "A cutie named Kylie . Her condition and her efforts to raise $ to spend time w/other kids like her . At 10 : 45 #fox25 http://t.co/aBTMIMo85O",
+    "entities": [
+      {
+        "text": "Kylie",
+        "tag": "PER"
+      }
+    ]
+  },
+  {
+    "img_id": "1081589",
+    "sentence": "RT @HistoryInPix : African girl in a human zoo , Belgium 1958 http://t.co/Vy8m1ExgMZ",
+    "entities": [
+      {
+        "text": "Belgium",
+        "tag": "LOC"
+      }
+    ]
+  },
+  {
+    "img_id": "233421",
+    "sentence": "WITCHES by Tracy Borman featuring a 16th century woodcut by Hans Baldung . Published end of August by @JonathanCape http://t.co/oLlOk2mpNE",
+    "entities": [
+      {
+        "text": "WITCHES",
+        "tag": "OTHER"
+      },
+      {
+        "text": "Tracy Borman",
+        "tag": "PER"
+      },
+      {
+        "text": "Hans Baldung",
+        "tag": "PER"
+      }
+    ]
+  },
+  {
+    "img_id": "653055",
+    "sentence": "RT @LuhanUSA : [ PREVIEW ] 150907 Beijing West Railway Station cr : MeiJia -HyeRin http://t.co/RBF4Ya2fJK",
+    "entities": [
+      {
+        "text": "Beijing West Railway Station",
+        "tag": "LOC"
+      }
+    ]
+  },
+  {
+    "img_id": "581132",
+    "sentence": "RT @TheBovsWho : she made Kim look ugly http://t.co/BXjCeHmIVy",
+    "entities": [
+      {
+        "text": "Kim",
+        "tag": "PER"
+      }
+    ]
+  },
+  {
+    "img_id": "170519",
+    "sentence": "That &amp ; Shawn Kemp pointing at buddy after , two most disrespectful . EVER RT @No _ Cut _ Card : still disrespectful . http://t.co/xgtwpwQg80",
+    "entities": [
+      {
+        "text": "Shawn Kemp",
+        "tag": "PER"
+      }
+    ]
+  },
+  {
+    "img_id": "586710",
+    "sentence": "RT @EveryPromise : -No me gusta Adele . + http://t.co/j9zY7tuUUT",
+    "entities": [
+      {
+        "text": "Adele",
+        "tag": "PER"
+      }
+    ]
+  },
+  {
+    "img_id": "1746248",
+    "sentence": "Christina is there in spirit . http://t.co/ct8NBu6gKy",
+    "entities": [
+      {
+        "text": "Christina",
+        "tag": "PER"
+      }
+    ]
+  },
+  {
+    "img_id": "673166",
+    "sentence": "RT @donghae861015 We going to Manila ^ ^ See u soon guys ! ! With Siwon http://t.co/lKP4OTMu",
+    "entities": [
+      {
+        "text": "Manila",
+        "tag": "LOC"
+      },
+      {
+        "text": "Siwon",
+        "tag": "PER"
+      }
+    ]
+  },
+  {
+    "img_id": "26394",
+    "sentence": "RT @FootyHumour : Mexicans be like Ochoa for president ! http://t.co/fqOFCOHKrI",
+    "entities": [
+      {
+        "text": "Ochoa",
+        "tag": "PER"
+      }
+    ]
+  },
+  {
+    "img_id": "1413926",
+    "sentence": "Wow ! What a brilliant reception in Otley for our #tandemtour RT @BBCTandem http://t.co/1Qp1LblXLq",
+    "entities": [
+      {
+        "text": "Otley",
+        "tag": "LOC"
+      }
+    ]
+  },
+  {
+    "img_id": "1004489",
+    "sentence": "RT @Albizar95 : Jared Leto on the stage . http://t.co/RUHj4TGtbU",
+    "entities": [
+      {
+        "text": "Jared Leto",
+        "tag": "PER"
+      }
+    ]
+  },
+  {
+    "img_id": "1755553",
+    "sentence": "RT @CapriceWengen : Blue sky , empty slopes and stunning scenery skiing from #Wengen Mannlichen to Grindelwald : ) http://t.co/TFpveRCLHv",
+    "entities": [
+      {
+        "text": "#Wengen Mannlichen",
+        "tag": "LOC"
+      },
+      {
+        "text": "Grindelwald",
+        "tag": "LOC"
+      }
+    ]
+  },
+  {
+    "img_id": "1292441",
+    "sentence": "Baby Molotov is being a brat ! ! ! http://t.co/InOkugkteA",
+    "entities": [
+      {
+        "text": "Molotov",
+        "tag": "OTHER"
+      }
+    ]
+  },
+  {
+    "img_id": "156730",
+    "sentence": "ICYMI @RWBY _ JAPAN RECP : Volume 1 Episode 1 , Ruby Rose ( RECAP ) http://t.co/TYwTCMHegQ @RoosterTeeth http://t.co/tFg0bnKIur",
+    "entities": [
+      {
+        "text": "Ruby Rose",
+        "tag": "PER"
+      }
+    ]
+  },
+  {
+    "img_id": "1089707",
+    "sentence": "RT @Marq : IOC President #1yeartogo in Rio . Penalties on the beach against former Brazil worldcup goalkeeper http://t.co/cZWN46aAoa",
+    "entities": [
+      {
+        "text": "IOC",
+        "tag": "ORG"
+      },
+      {
+        "text": "Rio",
+        "tag": "LOC"
+      },
+      {
+        "text": "Brazil",
+        "tag": "LOC"
+      }
+    ]
+  },
+  {
+    "img_id": "74856",
+    "sentence": "RT @HipHopxHotspot : \" Niggas turn to Hoes , Caitlyn Jenners turn to Drizzy Drake \" - Meek Mill http://t.co/EAKwUqObVN",
+    "entities": [
+      {
+        "text": "Niggas",
+        "tag": "PER"
+      },
+      {
+        "text": "Hoes",
+        "tag": "PER"
+      },
+      {
+        "text": "Caitlyn Jenners",
+        "tag": "PER"
+      },
+      {
+        "text": "Drizzy Drake",
+        "tag": "PER"
+      }
+    ]
+  },
+  {
+    "img_id": "29147",
+    "sentence": "RT @HJRawsthorne : How Skype usually works #truestory http://t.co/TkZovKEF",
+    "entities": [
+      {
+        "text": "Skype",
+        "tag": "OTHER"
+      }
+    ]
+  },
+  {
+    "img_id": "124821",
+    "sentence": "Mi princesita Camila Rayen http://t.co/cKFyvk8zk2",
+    "entities": [
+      {
+        "text": "Camila Rayen",
+        "tag": "PER"
+      }
+    ]
+  },
+  {
+    "img_id": "1398694",
+    "sentence": "RT @SportsCenter : We are heartbroken to report that Stuart Scott has died after a long fight with cancer . He was 49 . http://t.co/aI0TGwFqGU",
+    "entities": [
+      {
+        "text": "Stuart Scott",
+        "tag": "PER"
+      }
+    ]
+  },
+  {
+    "img_id": "1763577",
+    "sentence": "RT @kylemcclain : Good morning from Knoxville #fb http://t.co/tgqVUODP",
+    "entities": [
+      {
+        "text": "Knoxville",
+        "tag": "LOC"
+      },
+      {
+        "text": "#fb",
+        "tag": "ORG"
+      }
+    ]
+  },
+  {
+    "img_id": "842187",
+    "sentence": "Ashley Madison Says It . . . http://t.co/ywBuAJBCNh #Marketing #Socialmedia #Mercadotecnia | https://t.co/cyAF0hSUes http://t.co/A2WaFchNGK",
+    "entities": [
+      {
+        "text": "Ashley Madison",
+        "tag": "PER"
+      }
+    ]
+  },
+  {
+    "img_id": "953081",
+    "sentence": "RT @HistoricalPics : What a difference 26 years makes . Shanghai in 1987 and 2015 http://t.co/jLPjK690lw",
+    "entities": [
+      {
+        "text": "Shanghai",
+        "tag": "LOC"
+      }
+    ]
+  },
+  {
+    "img_id": "231367",
+    "sentence": "RT @deray : The confederate flag still flies in South Carolina . #TakeDownTheFlag http://t.co/3TuZ98POlI",
+    "entities": [
+      {
+        "text": "South Carolina",
+        "tag": "LOC"
+      }
+    ]
+  },
+  {
+    "img_id": "707268",
+    "sentence": "RT @itsmovies : Evan Peters appreciation tweet http://t.co/6aXCvmOiry",
+    "entities": [
+      {
+        "text": "Peters",
+        "tag": "PER"
+      },
+      {
+        "text": "tweet",
+        "tag": "ORG"
+      }
+    ]
+  },
+  {
+    "img_id": "1479038",
+    "sentence": "Calgary , I love you , lol . Best . Wifi . Ever . http://t.co/qMOrGeqXbc",
+    "entities": [
+      {
+        "text": "Calgary",
+        "tag": "LOC"
+      },
+      {
+        "text": "Wifi",
+        "tag": "OTHER"
+      }
+    ]
+  },
+  {
+    "img_id": "109152",
+    "sentence": "@MauriceBenard triumphant at @indiegathering Letters to Daniel launches successfully with major partner . http://t.co/oLyoRyuo57",
+    "entities": [
+      {
+        "text": "Daniel",
+        "tag": "PER"
+      }
+    ]
+  },
+  {
+    "img_id": "13908",
+    "sentence": "The courage &amp ; endurance of Tim Cope On the Trail of Genghis Khan was a personal highlight from @ubudwritersfest http://t.co/rbFNq6gBtA",
+    "entities": [
+      {
+        "text": "The",
+        "tag": "OTHER"
+      },
+      {
+        "text": "of",
+        "tag": "OTHER"
+      },
+      {
+        "text": "Tim Cope",
+        "tag": "PER"
+      },
+      {
+        "text": "On the Trail of Genghis Khan",
+        "tag": "OTHER"
+      }
+    ]
+  },
+  {
+    "img_id": "932398",
+    "sentence": "New Video : Los Angeles - USA road trip https : //t . co/vLrQdRgtVl http://t.co/1arI0aQKHS",
+    "entities": [
+      {
+        "text": "Los Angeles",
+        "tag": "LOC"
+      },
+      {
+        "text": "USA",
+        "tag": "LOC"
+      }
+    ]
+  },
+  {
+    "img_id": "158803",
+    "sentence": "Greeting accepted students at the amazing Roger Williams Law School . http://t.co/bgVD8hJAOG",
+    "entities": [
+      {
+        "text": "Roger Williams Law School",
+        "tag": "ORG"
+      }
+    ]
+  },
+  {
+    "img_id": "1358543",
+    "sentence": "RT @stereogum : Watch Dave Grohl yell at the Kaiser Chiefs in their tour video skit http://t.co/EN7qhJd0pi http://t.co/iXk8odDne8",
+    "entities": [
+      {
+        "text": "Dave Grohl",
+        "tag": "PER"
+      },
+      {
+        "text": "Kaiser Chiefs",
+        "tag": "LOC"
+      }
+    ]
+  },
+  {
+    "img_id": "1040807",
+    "sentence": "Conversation ? \" @TheUtdReview : De Gea , Mata and Azpilicueta in Spain training . http://t.co/7ldOhYsP7S\"",
+    "entities": [
+      {
+        "text": "De Gea",
+        "tag": "PER"
+      },
+      {
+        "text": "Mata",
+        "tag": "PER"
+      },
+      {
+        "text": "Azpilicueta",
+        "tag": "PER"
+      }
+    ]
+  },
+  {
+    "img_id": "502689",
+    "sentence": "RT @Gabriele _ Corno : Journey @ Chojnice , Poland by Mojebory #inspiration #childhood #path #motivation #CGE http://t.co/dxtYwZSDhO",
+    "entities": [
+      {
+        "text": "Poland",
+        "tag": "LOC"
+      },
+      {
+        "text": "Mojebory",
+        "tag": "PER"
+      },
+      {
+        "text": "#CGE",
+        "tag": "OTHER"
+      }
+    ]
+  },
+  {
+    "img_id": "1001621",
+    "sentence": "RT @Premsela : After one month Basic Instincts received over 5 . 000 visitors in #Shenzhen . On show Until 22 Nov . http://t.co/4vND1qOH http ...",
+    "entities": [
+      {
+        "text": "Basic Instincts",
+        "tag": "OTHER"
+      },
+      {
+        "text": "#Shenzhen",
+        "tag": "LOC"
+      }
+    ]
+  },
+  {
+    "img_id": "73435",
+    "sentence": "RT @Military _ Edge : Egyptian warships shell Houthis outside Yemeni city of Aden : Reports http://t.co/eKKx4f4fw8 via @ahramonline http://t.co…",
+    "entities": [
+      {
+        "text": "Houthis",
+        "tag": "ORG"
+      },
+      {
+        "text": "Aden",
+        "tag": "LOC"
+      }
+    ]
+  },
+  {
+    "img_id": "23051",
+    "sentence": "2011 grad from my high school Brogan Dulle has been missing in Clifton since Saturday night . Please RT to find him http://t.co/C8S9WphVj6",
+    "entities": [
+      {
+        "text": "Brogan Dulle",
+        "tag": "PER"
+      },
+      {
+        "text": "Clifton",
+        "tag": "LOC"
+      }
+    ]
+  },
+  {
+    "img_id": "71909",
+    "sentence": "Sorry , Florida . We ' ve frozen the fruits of your labor http://t.co/eyDyndzKnz",
+    "entities": [
+      {
+        "text": "Florida",
+        "tag": "LOC"
+      }
+    ]
+  },
+  {
+    "img_id": "159515",
+    "sentence": "Jorge talks about the loss of a childhood friend that spurred him into public service . #Elorza4PVD http://t.co/GPglqtH0Gz",
+    "entities": [
+      {
+        "text": "Jorge",
+        "tag": "PER"
+      }
+    ]
+  },
+  {
+    "img_id": "120593",
+    "sentence": "RT @TravelMD : Ocean City sunset . ( Photo : Chris Parypa ) #MDinFocus http://t.co/iXZhmLF8KJ",
+    "entities": [
+      {
+        "text": "Ocean City",
+        "tag": "LOC"
+      },
+      {
+        "text": "Chris Parypa",
+        "tag": "PER"
+      }
+    ]
+  },
+  {
+    "img_id": "180282",
+    "sentence": "#Venezuela-Congresswoman Dinorah Figuera : \" The Government has forgotten people living with HIV \" http://t.co/9yDl7YSyPi http://t.co/wpvb54cHtK",
+    "entities": [
+      {
+        "text": "Dinorah Figuera",
+        "tag": "PER"
+      },
+      {
+        "text": "HIV",
+        "tag": "OTHER"
+      }
+    ]
+  },
+  {
+    "img_id": "229115",
+    "sentence": "RT @HirokoTabuchi : The Rise of Japanese Chefs in Paris http://t.co/6j6xVSIVAw http://t.co/qP9EhX7GYF",
+    "entities": [
+      {
+        "text": "Paris",
+        "tag": "LOC"
+      }
+    ]
+  },
+  {
+    "img_id": "1826592",
+    "sentence": "Early in the morning from Xingping to go to Yu cun ( fishing village ) on the Li River . http://t.co/rLFHaKZtf3",
+    "entities": [
+      {
+        "text": "Xingping",
+        "tag": "LOC"
+      },
+      {
+        "text": "Yu cun",
+        "tag": "LOC"
+      },
+      {
+        "text": "Li River",
+        "tag": "LOC"
+      }
+    ]
+  },
+  {
+    "img_id": "74109",
+    "sentence": "Good night , Costa Rica http://t.co/KC65VkQGjl",
+    "entities": [
+      {
+        "text": "Costa Rica",
+        "tag": "LOC"
+      }
+    ]
+  },
+  {
+    "img_id": "1296482",
+    "sentence": "RT @XplodingUnicorn : Me : What happened on the coffee table ? 5-year-old daughter : Elsa killed all the stormtroopers . http://t.co/36hCfd1z5s",
+    "entities": [
+      {
+        "text": "Elsa",
+        "tag": "OTHER"
+      }
+    ]
+  },
+  {
+    "img_id": "33040",
+    "sentence": "RT @AnyoneButCorbyn : Below the line of the Blair Guardian piece DEFEAT IS VICTORY http://t.co/SiTyiguUAU",
+    "entities": [
+      {
+        "text": "Blair",
+        "tag": "PER"
+      }
+    ]
+  },
+  {
+    "img_id": "7394",
+    "sentence": "Mukti Khari on \" cultural entrepreneurship \" in Duluth : A field named by mixing two undefinable terms . http://t.co/ieTTzQ2qZC",
+    "entities": [
+      {
+        "text": "Mukti Khari",
+        "tag": "PER"
+      },
+      {
+        "text": "Duluth",
+        "tag": "LOC"
+      }
+    ]
+  },
+  {
+    "img_id": "36329",
+    "sentence": "RT @darcyday : I miss the US @FTpressoffice http://t.co/didvSis51q",
+    "entities": [
+      {
+        "text": "US",
+        "tag": "LOC"
+      }
+    ]
+  },
+  {
+    "img_id": "1103322",
+    "sentence": "RT @MilikaAmasio : When someone compliments you . . Facials : who me ? Lol http://t.co/ebj5SqM6De",
+    "entities": [
+      {
+        "text": "Facials",
+        "tag": "PER"
+      }
+    ]
+  },
+  {
+    "img_id": "1114060",
+    "sentence": "RT @nbcwashington : #WINTERCLASSIC : #Caps WIN the game off a last-minute goal by Troy Brouwer ! http://t.co/HKVlns1dbD http://t.co/VyCUf4EW9S",
+    "entities": [
+      {
+        "text": "Troy Brouwer",
+        "tag": "PER"
+      }
+    ]
+  },
+  {
+    "img_id": "179527",
+    "sentence": "RT @mkasanm : Microsoft Removes ActiveX In Windows 10 Default Browser Edge http://t.co/CnyTHkA2jK http://t.co/Y3XT1TPm42",
+    "entities": [
+      {
+        "text": "Microsoft",
+        "tag": "ORG"
+      },
+      {
+        "text": "ActiveX",
+        "tag": "OTHER"
+      },
+      {
+        "text": "Windows 10",
+        "tag": "OTHER"
+      }
+    ]
+  },
+  {
+    "img_id": "286794",
+    "sentence": "New Bike Lanes under construction . Cherry St , between King &amp ; Lake Shore/Waterfront Trail @WaterfrontTO @WaterfrontRT http://t.co/KpPct3S8Xu",
+    "entities": [
+      {
+        "text": "Cherry St",
+        "tag": "LOC"
+      },
+      {
+        "text": "King",
+        "tag": "LOC"
+      },
+      {
+        "text": "Lake",
+        "tag": "LOC"
+      },
+      {
+        "text": "Trail",
+        "tag": "LOC"
+      }
+    ]
+  },
+  {
+    "img_id": "13304",
+    "sentence": "A rare sight - a native British Otter : from : http://t.co/p9aEL0GRNt http://t.co/EfW27O8P6d",
+    "entities": [
+      {
+        "text": "British Otter",
+        "tag": "OTHER"
+      }
+    ]
+  },
+  {
+    "img_id": "430677",
+    "sentence": "RT @Paul _ Young112 : Typical Corey trying to FaceTime me in the middle of Algebra . . . @CoreyGendron114 http://t.co/Y1gb0kITas",
+    "entities": [
+      {
+        "text": "Corey",
+        "tag": "PER"
+      },
+      {
+        "text": "FaceTime",
+        "tag": "OTHER"
+      }
+    ]
+  },
+  {
+    "img_id": "146171",
+    "sentence": "RT @F1 _ _ _ Talk : Ferrari vs McLaren Honda http://t.co/BJMUJPcSoZ",
+    "entities": [
+      {
+        "text": "Ferrari",
+        "tag": "ORG"
+      },
+      {
+        "text": "McLaren Honda",
+        "tag": "ORG"
+      }
+    ]
+  },
+  {
+    "img_id": "1049647",
+    "sentence": "Caroline Hubberstey from @INTERAC talks about the importance of #LiciousTO . Big thanks to @INTERAC for their support ! http://t.co/Ab537tfUpR",
+    "entities": [
+      {
+        "text": "Caroline Hubberstey",
+        "tag": "PER"
+      }
+    ]
+  },
+  {
+    "img_id": "776891",
+    "sentence": "RT @BobbiEden : My fans RawK ! Love this ! http://t.co/E6UE9vvu6Q",
+    "entities": [
+      {
+        "text": "RawK",
+        "tag": "PER"
+      }
+    ]
+  },
+  {
+    "img_id": "92225",
+    "sentence": "God gave POWER to David that was equal to the task of defeating Goliath . #ELCMovies @joshcraft bringing the Word ! http://t.co/Y03E9Ekg2g",
+    "entities": [
+      {
+        "text": "David",
+        "tag": "PER"
+      }
+    ]
+  },
+  {
+    "img_id": "678277",
+    "sentence": "Amazing fall colors over the St . Croix valley - thanks to @swansonus and his Skyhawk http://t.co/u6VSz0FX",
+    "entities": [
+      {
+        "text": "Croix",
+        "tag": "LOC"
+      },
+      {
+        "text": "Skyhawk",
+        "tag": "OTHER"
+      }
+    ]
+  },
+  {
+    "img_id": "14840",
+    "sentence": "RT @SportsNation : Tony Romo has some gifts for 49er D fantasy owners : http://t.co/Q9nRB8XYKK",
+    "entities": [
+      {
+        "text": "Tony Romo",
+        "tag": "PER"
+      }
+    ]
+  },
+  {
+    "img_id": "1291447",
+    "sentence": "I have no choice but to ground her . She is in tears . She is not allow to go to Raton , New Mexico after next week . http://t.co/Ce6GMNorpD",
+    "entities": [
+      {
+        "text": "Raton",
+        "tag": "LOC"
+      },
+      {
+        "text": "New Mexico",
+        "tag": "LOC"
+      }
+    ]
+  },
+  {
+    "img_id": "1462633",
+    "sentence": "Hahaha RT @CoachBrewerUNC : 3 great Hoop schools in the Tar Heel State http://t.co/n2OEyUs33X",
+    "entities": [
+      {
+        "text": "Tar Heel State",
+        "tag": "LOC"
+      }
+    ]
+  },
+  {
+    "img_id": "70543",
+    "sentence": "Where beer is born : The Lagunitas brewery in North Lawndale http://t.co/PTIhG5k49s",
+    "entities": [
+      {
+        "text": "Lagunitas",
+        "tag": "OTHER"
+      },
+      {
+        "text": "North Lawndale",
+        "tag": "LOC"
+      }
+    ]
+  },
+  {
+    "img_id": "1875332",
+    "sentence": "RT @ConceptGrp : The ECB is ready to expand or extend its bond-buying program if needed http://t.co/38deAnD9Ci http://t.co/9DURLyHIBh",
+    "entities": [
+      {
+        "text": "ECB",
+        "tag": "ORG"
+      }
+    ]
+  },
+  {
+    "img_id": "29559",
+    "sentence": "@sggspride : Learning Spanish 6th grade out of world ! Alien created w/GoogleDraw #sggspride #CSW15 http://t.co/mYbjFlNPW3 @CristinaOSulliv",
+    "entities": [
+      {
+        "text": "Spanish",
+        "tag": "OTHER"
+      },
+      {
+        "text": "Alien",
+        "tag": "PER"
+      }
+    ]
+  },
+  {
+    "img_id": "74000",
+    "sentence": "It ' s the Bulls and the Wizards from DC tonight http://t.co/CLXtYv04Hx",
+    "entities": [
+      {
+        "text": "Bulls",
+        "tag": "ORG"
+      },
+      {
+        "text": "Wizards",
+        "tag": "ORG"
+      }
+    ]
+  },
+  {
+    "img_id": "7492",
+    "sentence": "Hello again , Amersfoort . http://t.co/LcogVeqplr",
+    "entities": [
+      {
+        "text": "Amersfoort",
+        "tag": "LOC"
+      }
+    ]
+  },
+  {
+    "img_id": "64105",
+    "sentence": "RT @lilykemmy : \" @BBCSporf : BREAKING : Robin Van Persie spotted at half-time . http://t.co/Nmv8j6RfSn\" hahaha",
+    "entities": []
+  },
+  {
+    "img_id": "74675",
+    "sentence": "RT @Ticats : #Ticats TV recaps Day 1 of training camp from Ron Joyce Field . #CFLTC WATCH &gt ; http://t.co/qH13CrNYnH http://t.co/j2zCV3U3u7",
+    "entities": [
+      {
+        "text": "Ron Joyce Field",
+        "tag": "PER"
+      }
+    ]
+  },
+  {
+    "img_id": "647468",
+    "sentence": "RT @1DNewsBrr : 1Dnews : Josh via Instagram . #MPN #OneDirection http://t.co/X0O5Si8F1n",
+    "entities": [
+      {
+        "text": "Josh",
+        "tag": "PER"
+      },
+      {
+        "text": "Instagram",
+        "tag": "OTHER"
+      },
+      {
+        "text": "#MPN",
+        "tag": "OTHER"
+      }
+    ]
+  },
+  {
+    "img_id": "866097",
+    "sentence": "RT @GregoryHainesGP : I leave you with this photo from a fantastic first day in Valencia - goodnight ! #MotoGP http://t.co/fCtPMqhTsQ",
+    "entities": [
+      {
+        "text": "Valencia",
+        "tag": "LOC"
+      }
+    ]
+  },
+  {
+    "img_id": "632296",
+    "sentence": "Makeup/hair by me , photo Nusrat Momin model Ona Morgan @ Marylin NYC styling Brandi Zarr nails by Keta Jackson http://t.co/3uipcsJVJp",
+    "entities": [
+      {
+        "text": "Nusrat Momin",
+        "tag": "PER"
+      },
+      {
+        "text": "Ona Morgan",
+        "tag": "PER"
+      },
+      {
+        "text": "NYC",
+        "tag": "LOC"
+      },
+      {
+        "text": "Keta Jackson",
+        "tag": "PER"
+      }
+    ]
+  },
+  {
+    "img_id": "114585",
+    "sentence": "RT @2nerdyhistgirls : RT @HistoryandArt : Everyday life in 19C America - at the beach - http://t.co/zYJRkJItAi - http://t.co/kIYfowplkd",
+    "entities": [
+      {
+        "text": "19C America",
+        "tag": "LOC"
+      }
+    ]
+  },
+  {
+    "img_id": "37048",
+    "sentence": "RT @Squawka : Miroslav Klose scored 16 goals in 24 World Cup appearances for Germany . What a career . #GER http://t.co/wjxgcyovpb",
+    "entities": [
+      {
+        "text": "Miroslav Klose",
+        "tag": "PER"
+      },
+      {
+        "text": "World Cup",
+        "tag": "OTHER"
+      },
+      {
+        "text": "Germany",
+        "tag": "LOC"
+      },
+      {
+        "text": "#GER",
+        "tag": "LOC"
+      }
+    ]
+  },
+  {
+    "img_id": "36243",
+    "sentence": "RT @mashable : Polish nurse cat may be the cutest medical practitioner in history . http://t.co/d4vLuHLeN2 http://t.co/AWivX2PaLY",
+    "entities": [
+      {
+        "text": "Polish",
+        "tag": "LOC"
+      }
+    ]
+  },
+  {
+    "img_id": "51044",
+    "sentence": "RT @climateprogress : Carbon emissions from the U . S . energy sector are on the rise http://t.co/IMdmMhTXVn http://t.co/N8woUg1xB1",
+    "entities": [
+      {
+        "text": "Carbon",
+        "tag": "OTHER"
+      }
+    ]
+  },
+  {
+    "img_id": "116930",
+    "sentence": "RT @FortuneMagazine : The biggest solar farm east of the Rocky Mountains breaks ground http://t.co/HtEMoS7vrD http://t.co/gFrWqM2P47",
+    "entities": [
+      {
+        "text": "Rocky Mountains",
+        "tag": "LOC"
+      }
+    ]
+  },
+  {
+    "img_id": "12344",
+    "sentence": "@JihadistJoe what does the west think about this pic ? Was it only good for F3028 to bomb Iraq till it reached this ? http://t.co/mUnAqbqlVP",
+    "entities": [
+      {
+        "text": "Iraq",
+        "tag": "LOC"
+      }
+    ]
+  },
+  {
+    "img_id": "15084",
+    "sentence": "So this just happened on google maps . http://t.co/6ZqBgsbA70",
+    "entities": [
+      {
+        "text": "google maps",
+        "tag": "OTHER"
+      }
+    ]
+  },
+  {
+    "img_id": "1475162",
+    "sentence": "RT @iLikeGirlsDaily : Booty had me like http://t.co/XCgB8hCjUP",
+    "entities": [
+      {
+        "text": "Booty",
+        "tag": "PER"
+      }
+    ]
+  },
+  {
+    "img_id": "1998871",
+    "sentence": "PIC : My Great friend Bill Fugazy celebrated his 89th Birthday today . http://t.co/YPasqNAS5N",
+    "entities": [
+      {
+        "text": "Bill Fugazy",
+        "tag": "PER"
+      }
+    ]
+  },
+  {
+    "img_id": "507215",
+    "sentence": "Commissioner Bettman is looking forward to 2016 All-Star Weekend &amp ; beyond in Nashville --&gt ; http://t.co/PfhB1RSGyj http://t.co/W1zLRFyI63",
+    "entities": [
+      {
+        "text": "Bettman",
+        "tag": "PER"
+      },
+      {
+        "text": "All-Star Weekend",
+        "tag": "OTHER"
+      },
+      {
+        "text": "Nashville",
+        "tag": "LOC"
+      }
+    ]
+  },
+  {
+    "img_id": "415202",
+    "sentence": "Smokie will perform tomorrow at #MyMusicFestival 2015 , Surf Pool Sunway for a Free Concert ! #MMF2015 #MyFest2015 http://t.co/eIEfldNQ2g",
+    "entities": [
+      {
+        "text": "Smokie",
+        "tag": "ORG"
+      }
+    ]
+  },
+  {
+    "img_id": "701863",
+    "sentence": "TSN setting up for the big gold medal game between CAN + USA . Game shown exclusively on TSN2 #WSHC2013 http://t.co/7HAY7PW4dY",
+    "entities": [
+      {
+        "text": "TSN",
+        "tag": "ORG"
+      },
+      {
+        "text": "CAN",
+        "tag": "ORG"
+      },
+      {
+        "text": "USA",
+        "tag": "ORG"
+      },
+      {
+        "text": "TSN2",
+        "tag": "OTHER"
+      }
+    ]
+  },
+  {
+    "img_id": "180083",
+    "sentence": "#Chile - Thousands of people attend the march for sexual diversity in Santiago MORE : http://t.co/xGY3vBsBkQ #lgbt http://t.co/lb1YHXPf3A",
+    "entities": [
+      {
+        "text": "#Chile",
+        "tag": "LOC"
+      },
+      {
+        "text": "Santiago",
+        "tag": "LOC"
+      }
+    ]
+  },
+  {
+    "img_id": "1466127",
+    "sentence": "RT @oldpicsarchive : Brezhnev in his underwear . http://t.co/tIE26u3PA5",
+    "entities": [
+      {
+        "text": "Brezhnev",
+        "tag": "PER"
+      }
+    ]
+  },
+  {
+    "img_id": "956913",
+    "sentence": "RT @WSJ : From Sesame Street to Steve Martin , friends and fans remember Robin Williams : http://t.co/mktQXbZ2rL http://t.co/U9tunXrVs5",
+    "entities": [
+      {
+        "text": "Sesame Street",
+        "tag": "OTHER"
+      },
+      {
+        "text": "Steve Martin",
+        "tag": "PER"
+      },
+      {
+        "text": "Robin Williams",
+        "tag": "PER"
+      }
+    ]
+  },
+  {
+    "img_id": "769868",
+    "sentence": "RT @TARDIS _ Blue12 : I used to laugh at Will McKenzie during exam season , now I am Will McKenzie during exam season http://t.co/YVPrwfSkkG",
+    "entities": [
+      {
+        "text": "Will McKenzie",
+        "tag": "PER"
+      },
+      {
+        "text": "Will McKenzie",
+        "tag": "PER"
+      }
+    ]
+  },
+  {
+    "img_id": "1037160",
+    "sentence": "RT @SneakerPics23 : Retro 6 Darth Vader Custom http://t.co/3QyftMIGuu",
+    "entities": [
+      {
+        "text": "Retro 6 Darth Vader Custom",
+        "tag": "OTHER"
+      }
+    ]
+  },
+  {
+    "img_id": "35386",
+    "sentence": "Why Factoring In Customer Lifetime Value to Target CPA http://t.co/gpYbdh7F04 http://t.co/QjAtDUYoyB",
+    "entities": [
+      {
+        "text": "CPA",
+        "tag": "OTHER"
+      }
+    ]
+  },
+  {
+    "img_id": "6248",
+    "sentence": "I just posted a review of the Middle Eastern Platter at Milk Street Cafe on Tasted Menu ! http://t.co/4EeBnVxk http://t.co/moGq4uyy",
+    "entities": [
+      {
+        "text": "Middle Eastern",
+        "tag": "LOC"
+      }
+    ]
+  },
+  {
+    "img_id": "62719",
+    "sentence": "RT @Ghostworker13 : R . I . P Jerry Collins , a true gentleman of the game , Heroes will be remembered but legends never die http://t.co/nScZcCZRHK",
+    "entities": [
+      {
+        "text": "Jerry Collins",
+        "tag": "PER"
+      }
+    ]
+  },
+  {
+    "img_id": "5908",
+    "sentence": "Hello from Friesland . http://t.co/DHiSvot6QF",
+    "entities": [
+      {
+        "text": "Friesland",
+        "tag": "LOC"
+      }
+    ]
+  },
+  {
+    "img_id": "381863",
+    "sentence": "RT @hannahyeoh : Urgent help needed . Missing Fallon Hannah from Subang Jaya . Please RT . @PDRMsia http://t.co/gdMYaTcbMg",
+    "entities": [
+      {
+        "text": "Fallon Hannah",
+        "tag": "PER"
+      },
+      {
+        "text": "Subang Jaya",
+        "tag": "LOC"
+      }
+    ]
+  },
+  {
+    "img_id": "786355",
+    "sentence": "RT @AndyNewportPA : Murdo McLeod and Walter Smith help launch new PR firm Level5 http://t.co/mgagJxcKbX",
+    "entities": [
+      {
+        "text": "Walter Smith",
+        "tag": "PER"
+      }
+    ]
+  },
+  {
+    "img_id": "1020735",
+    "sentence": "RIP Roger Rodas http://t.co/TPMH7bl4Ta",
+    "entities": [
+      {
+        "text": "Roger Rodas",
+        "tag": "PER"
+      }
+    ]
+  },
+  {
+    "img_id": "1097918",
+    "sentence": "Another NYT pic of the Selma march cropped the Bushes out EXACTLY . You can see just a sliver of Laura Bush . #Bias http://t.co/dsnXOk70gL",
+    "entities": [
+      {
+        "text": "Selma",
+        "tag": "OTHER"
+      },
+      {
+        "text": "Bushes",
+        "tag": "PER"
+      },
+      {
+        "text": "Laura Bush",
+        "tag": "PER"
+      }
+    ]
+  },
+  {
+    "img_id": "1480875",
+    "sentence": "RT @SportingKC : Congratulations to #SportingKC Manager Peter Vermes- recent @NAACP award winner . Even more reason to be proud of PV . htt . . .",
+    "entities": [
+      {
+        "text": "Peter",
+        "tag": "PER"
+      }
+    ]
+  },
+  {
+    "img_id": "28793",
+    "sentence": "RT \" @NBA _ Mixes : Dame Lillard is undoubtedly the best rapper in the NBA http://t.co/0luPhmeuGK http://t.co/ROI4VUV70n\"&lt; YUP!",
+    "entities": [
+      {
+        "text": "Dame Lillard",
+        "tag": "PER"
+      },
+      {
+        "text": "NBA",
+        "tag": "OTHER"
+      }
+    ]
+  },
+  {
+    "img_id": "378923",
+    "sentence": "Thirsty Thursday Dan Searing @AmStillLife pouring Corsair Gin , Smooth Ambler Vodka , Thomas Tew Rum , Osocalis Brandy http://t.co/xROQjrIl9e",
+    "entities": [
+      {
+        "text": "Dan Searing",
+        "tag": "PER"
+      },
+      {
+        "text": "Corsair Gin",
+        "tag": "OTHER"
+      },
+      {
+        "text": "Smooth Ambler Vodka",
+        "tag": "OTHER"
+      },
+      {
+        "text": "Thomas Tew Rum",
+        "tag": "OTHER"
+      },
+      {
+        "text": "Osocalis Brandy",
+        "tag": "OTHER"
+      }
+    ]
+  },
+  {
+    "img_id": "38089",
+    "sentence": "Months ago Tyga was scolding black people for saying he is dating Kyle . Now he rapping about their sex life . . http://t.co/FqNULpb7ip",
+    "entities": [
+      {
+        "text": "Tyga",
+        "tag": "PER"
+      },
+      {
+        "text": "Kyle",
+        "tag": "PER"
+      }
+    ]
+  },
+  {
+    "img_id": "73220",
+    "sentence": "#49ers Michael Crabtree catches the first TD at Levi ' s Stadium as #Bears Chris Conte trails http://t.co/kAZbninMd2 http://t.co/TcYXGDyN5X",
+    "entities": [
+      {
+        "text": "#49ers",
+        "tag": "ORG"
+      },
+      {
+        "text": "Michael Crabtree",
+        "tag": "PER"
+      },
+      {
+        "text": "Stadium",
+        "tag": "LOC"
+      },
+      {
+        "text": "#Bears",
+        "tag": "ORG"
+      },
+      {
+        "text": "Chris Conte",
+        "tag": "PER"
+      }
+    ]
+  },
+  {
+    "img_id": "713",
+    "sentence": "RT @whitesox : Chris Sale has his eyes on the prize . http://t.co/10SoaQNtb1",
+    "entities": [
+      {
+        "text": "Chris Sale",
+        "tag": "PER"
+      }
+    ]
+  },
+  {
+    "img_id": "573399",
+    "sentence": "RT @FootballFunnys : Schmelzer and Mourinho http://t.co/JnArv30oyO",
+    "entities": [
+      {
+        "text": "Schmelzer",
+        "tag": "PER"
+      },
+      {
+        "text": "Mourinho",
+        "tag": "PER"
+      }
+    ]
+  },
+  {
+    "img_id": "550579",
+    "sentence": "RT @FutbolBible : I can confirm it was sunny at Goodison Park earlier : http://t.co/DqVnccBy4O",
+    "entities": [
+      {
+        "text": "Goodison Park",
+        "tag": "LOC"
+      }
+    ]
+  },
+  {
+    "img_id": "1071197",
+    "sentence": "RT @BatallaDfamosos : RT Vanessa Hudgens FAV Hayley Williams http://t.co/XGN9XWiljJ",
+    "entities": [
+      {
+        "text": "Vanessa Hudgens",
+        "tag": "PER"
+      },
+      {
+        "text": "Hayley Williams",
+        "tag": "PER"
+      }
+    ]
+  },
+  {
+    "img_id": "108876",
+    "sentence": "Tom De Nies discussing his negative results at the #NoISE2015 workshop #eswc2015 . Interesting presentation http://t.co/UdOjApAxht",
+    "entities": [
+      {
+        "text": "Tom De Nies",
+        "tag": "PER"
+      }
+    ]
+  },
+  {
+    "img_id": "110134",
+    "sentence": "Checkout the lovely webpage designed for all EPIC Finalists by @EliseVanCise ! Thanks Elise ! http://t.co/Zc3prOklbT",
+    "entities": [
+      {
+        "text": "EPIC",
+        "tag": "OTHER"
+      },
+      {
+        "text": "Elise",
+        "tag": "PER"
+      }
+    ]
+  },
+  {
+    "img_id": "13846",
+    "sentence": "@IIJERiiCHOII I was going through old photos on my iPod . Gotta say , you make some of the weirdest faces dude . http://t.co/D9cSDZCaCb",
+    "entities": [
+      {
+        "text": "iPod",
+        "tag": "OTHER"
+      }
+    ]
+  },
+  {
+    "img_id": "629018",
+    "sentence": "President McRobbie officially dedicated our #IU #India Office today with help from @AyaanAliKhan and @PelletierMP . http://t.co/GbEtxOBdrd",
+    "entities": [
+      {
+        "text": "President McRobbie",
+        "tag": "PER"
+      },
+      {
+        "text": "#IU",
+        "tag": "ORG"
+      },
+      {
+        "text": "#India",
+        "tag": "LOC"
+      }
+    ]
+  },
+  {
+    "img_id": "479320",
+    "sentence": "Report reveals #Ecuador staged protests against #Chevron in the US via @JazzShaw @hotairblog http://t.co/0NaIa1rJYy http://t.co/R266hNc0jH",
+    "entities": [
+      {
+        "text": "#Ecuador",
+        "tag": "LOC"
+      },
+      {
+        "text": "#Chevron",
+        "tag": "ORG"
+      },
+      {
+        "text": "US",
+        "tag": "LOC"
+      }
+    ]
+  },
+  {
+    "img_id": "71226",
+    "sentence": "Why TIME Chose an Amateur Photographer ' s Image for Its Cover http://t.co/9CIhAOIRDP http://t.co/0t2STEXvDo",
+    "entities": [
+      {
+        "text": "TIME",
+        "tag": "ORG"
+      }
+    ]
+  },
+  {
+    "img_id": "1995382",
+    "sentence": "Haunting character illustrations by Enrique Baena http://t.co/U7GHi2SWJt http://t.co/7haQC74spy",
+    "entities": [
+      {
+        "text": "Enrique Baena",
+        "tag": "PER"
+      }
+    ]
+  },
+  {
+    "img_id": "1722152",
+    "sentence": "RT @Slate : How Ornette Coleman created the most hauntingly beautiful song in jazz : http://t.co/jwTUAJOX7h http://t.co/2YnssnmjXN",
+    "entities": [
+      {
+        "text": "Ornette Coleman",
+        "tag": "PER"
+      },
+      {
+        "text": "jazz",
+        "tag": "OTHER"
+      }
+    ]
+  },
+  {
+    "img_id": "440133",
+    "sentence": "@i10shootout continues today . Great games in Katy . http://t.co/xlBvozXvae",
+    "entities": [
+      {
+        "text": "Katy",
+        "tag": "LOC"
+      }
+    ]
+  },
+  {
+    "img_id": "31911",
+    "sentence": "RT @Jason : The first trailer for Season 5 of \" The Walking Dead \" is released . https : //t . co/2MQfgdv1fw http://t.co/qw8o1DCFUe",
+    "entities": [
+      {
+        "text": "The Walking Dead",
+        "tag": "OTHER"
+      }
+    ]
+  },
+  {
+    "img_id": "321967",
+    "sentence": "Remarkable , if mistaken , information-gathering &amp ; inference by Shutterfly , based ( I presume ) on http://t.co/ML74ugHf1a http://t.co/SLG29WRPbI",
+    "entities": [
+      {
+        "text": "Shutterfly",
+        "tag": "ORG"
+      }
+    ]
+  },
+  {
+    "img_id": "751097",
+    "sentence": "Johns Manville , a Berkshire Hathaway company talking abt their success w SAP MII at #SAPForum #Mfg @Fujitsu _ Global http://t.co/3uu7bOqQ8M",
+    "entities": [
+      {
+        "text": "Johns Manville",
+        "tag": "ORG"
+      },
+      {
+        "text": "Berkshire Hathaway",
+        "tag": "ORG"
+      },
+      {
+        "text": "SAP MII",
+        "tag": "ORG"
+      }
+    ]
+  },
+  {
+    "img_id": "2117683",
+    "sentence": "@livenationtoga Zack Brown http://t.co/1RDNFlVDYu",
+    "entities": [
+      {
+        "text": "Zack Brown",
+        "tag": "PER"
+      }
+    ]
+  },
+  {
+    "img_id": "117874",
+    "sentence": "RT @MotherJones : Umbrellas vs . pepper spray in Hong Kong http://t.co/hoGJGwpGh0 http://t.co/a5BisbWgAh",
+    "entities": [
+      {
+        "text": "Hong Kong",
+        "tag": "LOC"
+      }
+    ]
+  },
+  {
+    "img_id": "1004884",
+    "sentence": "RT @talkSPORT : David De Gea transfer farce : Man United blame Real Madrid for collapse of deal http://t.co/TYgkopmXKC http://t.co/8QbKfZRpBR",
+    "entities": [
+      {
+        "text": "David De Gea",
+        "tag": "PER"
+      },
+      {
+        "text": "Man United",
+        "tag": "ORG"
+      },
+      {
+        "text": "Real Madrid",
+        "tag": "ORG"
+      }
+    ]
+  },
+  {
+    "img_id": "65776",
+    "sentence": "RT @USFWSNews : Working to recover the Colorado greenback cutthroat trout ! Photo : @PlatteBasin http://t.co/EeBshjhuLM @ArianaBrocious http:/…",
+    "entities": []
+  },
+  {
+    "img_id": "50147",
+    "sentence": "RT @NYTArchives : The War in Europe is Ended ! V-E Day is proclaimed 70 years ago today . http://t.co/S9LYwwXf4d http://t.co/HKNasDQx3C",
+    "entities": [
+      {
+        "text": "Europe",
+        "tag": "LOC"
+      },
+      {
+        "text": "V-E Day",
+        "tag": "OTHER"
+      }
+    ]
+  },
+  {
+    "img_id": "1994559",
+    "sentence": "Ambassador Bolton visits CATS office to discuss World Political Problems http://t.co/6je1Up4ky7",
+    "entities": [
+      {
+        "text": "Bolton",
+        "tag": "PER"
+      },
+      {
+        "text": "CATS",
+        "tag": "ORG"
+      },
+      {
+        "text": "World Political Problems",
+        "tag": "OTHER"
+      }
+    ]
+  },
+  {
+    "img_id": "150790",
+    "sentence": "RT @AmyLangfield : Happy #IndependentBookstoreDay - sign going up in Red Hook on Van Brunt for Pioneer Books http://t.co/RYG5Rvne57",
+    "entities": [
+      {
+        "text": "Red Hook",
+        "tag": "LOC"
+      },
+      {
+        "text": "Van Brunt",
+        "tag": "LOC"
+      },
+      {
+        "text": "Pioneer Books",
+        "tag": "ORG"
+      }
+    ]
+  },
+  {
+    "img_id": "162716",
+    "sentence": "RT @MassDeception1 : Judge orders Prince Andrew sex allegations struck from court record http://t.co/2JHlWFEmE4 http://t.co/zs1VPCluJx",
+    "entities": [
+      {
+        "text": "Andrew",
+        "tag": "PER"
+      }
+    ]
+  },
+  {
+    "img_id": "70527",
+    "sentence": "RT @Cosmopolitan : Was Nicki Minaj and Miley Cyrus ' s #VMAs fight real or fake ? AN INVESTIGATION : http://t.co/vL6qYy6rzQ http://t.co/RRpbVLMT…",
+    "entities": [
+      {
+        "text": "Nicki Minaj",
+        "tag": "PER"
+      },
+      {
+        "text": "Miley Cyrus",
+        "tag": "PER"
+      },
+      {
+        "text": "#VMAs",
+        "tag": "OTHER"
+      }
+    ]
+  },
+  {
+    "img_id": "658984",
+    "sentence": "Anthony Hardy Williams dances up to mayoral forum at Dobbins . #NextMayorPHL http://t.co/UD8xrQKFk1",
+    "entities": [
+      {
+        "text": "Anthony Hardy Williams",
+        "tag": "PER"
+      },
+      {
+        "text": "Dobbins",
+        "tag": "LOC"
+      }
+    ]
+  },
+  {
+    "img_id": "74842",
+    "sentence": "RT @WORIDSTARHlPHOP : This why Katt Williams my favorite http://t.co/LDIP9bDtRG",
+    "entities": [
+      {
+        "text": "Katt Williams",
+        "tag": "PER"
+      }
+    ]
+  },
+  {
+    "img_id": "527528",
+    "sentence": "Everything you need to know visiting Norway in Winter - http://t.co/czJtnFVH1e http://t.co/CJsecj2fAZ",
+    "entities": [
+      {
+        "text": "Norway",
+        "tag": "LOC"
+      }
+    ]
+  },
+  {
+    "img_id": "459004",
+    "sentence": "RT @ltsChuckBass : Nate Archibald appreciation post http://t.co/20vfRjd3IF",
+    "entities": [
+      {
+        "text": "Nate Archibald",
+        "tag": "PER"
+      }
+    ]
+  },
+  {
+    "img_id": "189127",
+    "sentence": "A few hundred out at the #BlackLivesMatter #BlackoutDC rally at the White House , joined by @deray http://t.co/VzDkl3jDpX",
+    "entities": [
+      {
+        "text": "White House",
+        "tag": "LOC"
+      }
+    ]
+  },
+  {
+    "img_id": "420859",
+    "sentence": "University of Tennessee ditches gender pronouns http://t.co/GN16I1tsT4 http://t.co/GVnJ3WTEF0",
+    "entities": [
+      {
+        "text": "University of Tennessee",
+        "tag": "ORG"
+      }
+    ]
+  },
+  {
+    "img_id": "1766026",
+    "sentence": "The Reeves-urrection : The Second Coming of Keanu Reeves . http://t.co/H2I7WPvj0E http://t.co/tfd0hxienU",
+    "entities": [
+      {
+        "text": "The",
+        "tag": "OTHER"
+      },
+      {
+        "text": "The Second Coming of Keanu Reeves",
+        "tag": "OTHER"
+      }
+    ]
+  },
+  {
+    "img_id": "24345",
+    "sentence": "RT @heyguysheyphoto : i like to think daft punk is tickling smokey robinson in this photo #GRAMMYs http://t.co/PAQgR5EJdI",
+    "entities": [
+      {
+        "text": "robinson",
+        "tag": "PER"
+      },
+      {
+        "text": "#GRAMMYs",
+        "tag": "OTHER"
+      }
+    ]
+  },
+  {
+    "img_id": "535844",
+    "sentence": "Our photographer , Abylay #wiam http://t.co/whowyDhG",
+    "entities": [
+      {
+        "text": "Abylay",
+        "tag": "PER"
+      }
+    ]
+  },
+  {
+    "img_id": "180851",
+    "sentence": "#Russia- Monuments in Voronezh with rainbow scarfs reportedly are \" actions of gays \" http://t.co/TDHPtzNk51 http://t.co/gtVjW1zu9A",
+    "entities": [
+      {
+        "text": "Voronezh",
+        "tag": "LOC"
+      }
+    ]
+  },
+  {
+    "img_id": "709250",
+    "sentence": "RT @Pray4SouthKorea : Touching illustration . Kwon Ji-young ( 5 ) and her brother ( 6 ) http://t.co/E6mlFpV1KC",
+    "entities": [
+      {
+        "text": "Kwon Ji-young",
+        "tag": "PER"
+      }
+    ]
+  },
+  {
+    "img_id": "116274",
+    "sentence": "George Clooney considers selling his luxury Lake Como mansion http://t.co/NBIr4aMEbS via @domaincomau #LakeComo http://t.co/IQNbrUteaG",
+    "entities": [
+      {
+        "text": "George Clooney",
+        "tag": "PER"
+      },
+      {
+        "text": "Lake Como",
+        "tag": "LOC"
+      }
+    ]
+  },
+  {
+    "img_id": "1828473",
+    "sentence": "RT @MatthewSchneier : . . . and Kendall Jenner . http://t.co/rTTkn7bSo2",
+    "entities": [
+      {
+        "text": "Kendall Jenner",
+        "tag": "PER"
+      }
+    ]
+  },
+  {
+    "img_id": "1758578",
+    "sentence": "@AnaDeliaFitness Ladies , who else wants a back like D1496 ? ? http://t.co/Sca1XKEnvw",
+    "entities": []
+  },
+  {
+    "img_id": "20041",
+    "sentence": "RT @johnnydphoto : SA firefighters rescue 14 stuck in elevator of Tower of Americas . http://t.co/jcKcIvEzmn http://t.co/jCYqtxJUYh",
+    "entities": [
+      {
+        "text": "SA",
+        "tag": "LOC"
+      },
+      {
+        "text": "of",
+        "tag": "LOC"
+      },
+      {
+        "text": "Tower of Americas",
+        "tag": "LOC"
+      }
+    ]
+  },
+  {
+    "img_id": "62296",
+    "sentence": "RT @AlbertBreer : Braxton ! RT @Buckeye _ Nation : Congrats to all of The Ohio State University new graduates today ! #GoBucks http://t.co/AunQ4…",
+    "entities": [
+      {
+        "text": "The Ohio State University",
+        "tag": "ORG"
+      }
+    ]
+  },
+  {
+    "img_id": "50693",
+    "sentence": "RT @AccessVikings : Taylor Heinicke pushing for third quarterback spot with Vikings http://t.co/il4S63MztT http://t.co/IM33MmCT6E",
+    "entities": [
+      {
+        "text": "Taylor Heinicke",
+        "tag": "PER"
+      },
+      {
+        "text": "Vikings",
+        "tag": "ORG"
+      }
+    ]
+  },
+  {
+    "img_id": "29871",
+    "sentence": "RT @TheWorldStories : Restaurant Inside Cave , Thailand http://t.co/zciV5qFfIo",
+    "entities": [
+      {
+        "text": "Thailand",
+        "tag": "LOC"
+      }
+    ]
+  },
+  {
+    "img_id": "747089",
+    "sentence": "Watching humpback whales breach in Baja California was a huge - and amazing - #adrenaline rush . #FriFotos http://t.co/NniakgyGar",
+    "entities": [
+      {
+        "text": "Baja California",
+        "tag": "LOC"
+      }
+    ]
+  },
+  {
+    "img_id": "1767715",
+    "sentence": "I still think McKendricks is awesome ! http://t.co/l0Sdqz9gxi",
+    "entities": [
+      {
+        "text": "McKendricks",
+        "tag": "OTHER"
+      }
+    ]
+  },
+  {
+    "img_id": "13866",
+    "sentence": "Ravens RT @nflnetwork : #WhoWillWin : Ravens or Steelers ? http://t.co/TkgCySYgRd",
+    "entities": [
+      {
+        "text": "Ravens",
+        "tag": "ORG"
+      },
+      {
+        "text": "Ravens",
+        "tag": "ORG"
+      },
+      {
+        "text": "Steelers",
+        "tag": "ORG"
+      }
+    ]
+  },
+  {
+    "img_id": "2041725",
+    "sentence": "TVD Tonight Directed by Paul Wesley Big director in a little chair ; ) http://t.co/q8HtVi8IeT",
+    "entities": [
+      {
+        "text": "TVD",
+        "tag": "OTHER"
+      },
+      {
+        "text": "Paul Wesley",
+        "tag": "PER"
+      }
+    ]
+  },
+  {
+    "img_id": "117603",
+    "sentence": "RT @CNNPolitics : Lawmakers sound off on Edward Snowden ( via @Aleksander _ Lee ) http://t.co/ba1T7Q59gj http://t.co/biTaUUOZ4B",
+    "entities": [
+      {
+        "text": "Edward Snowden",
+        "tag": "PER"
+      }
+    ]
+  },
+  {
+    "img_id": "737889",
+    "sentence": "RT @ProudSPNer : JENSEN , HOW DARE YOU TO BE SUCH AN ADORABLE CUTE LITTLE CUPCAKE ? http://t.co/EL9tDAQ7Nc",
+    "entities": [
+      {
+        "text": "JENSEN",
+        "tag": "PER"
+      }
+    ]
+  },
+  {
+    "img_id": "94688",
+    "sentence": "RT @ _ redleaves : Benedict , the most beautiful eyes in the world . http://t.co/1Sq7WLdJnz",
+    "entities": [
+      {
+        "text": "Benedict",
+        "tag": "PER"
+      }
+    ]
+  },
+  {
+    "img_id": "264446",
+    "sentence": "Congrats From Pastor Wayne Landry Sr . http://t.co/Dey1wUFXPT",
+    "entities": [
+      {
+        "text": "Wayne Landry",
+        "tag": "PER"
+      }
+    ]
+  }
+]

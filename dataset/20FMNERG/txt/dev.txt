@@ -1,0 +1,5552 @@
+IMGID:17_06_13443
+Boobs	O	O
+,	O	O
+bums	O	O
+and	O	O
+hippy	O	O
+crack	O	O
+:	O	O
+Glastonbury	B-event	B-festival
+festival	I-event	I-festival
+revellers	O	O
+party	O	O
+hard	O	O
+on	O	O
+Day	O	O
+2	O	O
+
+IMGID:O_1206
+Downtown	O	O
+Austin	B-location	B-city
+with	O	O
+Lady	B-location	B-location_other
+Bird	I-location	I-location_other
+Lake	I-location	I-location_other
+in	O	O
+the	O	O
+foreground	O	O
+
+IMGID:O_1704
+Kevin	B-person	B-athlete
+Durant	I-person	I-athlete
+joins	O	O
+an	O	O
+impressive	O	O
+list	O	O
+.	O	O
+(	O	O
+via	O	O
+Elias	B-organization	B-news_agency
+Sports	I-organization	I-news_agency
+Bureau	I-organization	I-news_agency
+)	O	O
+
+IMGID:16_05_17_724
+Come	O	O
+support	O	O
+my	O	O
+choir	O	O
+fam	O	O
+and	O	O
+I	O	O
+tomorrow	O	O
+night	O	O
+at	O	O
+7	O	O
+pm	O	O
+!	O	O
+!	O	O
+!	O	O
+It	O	O
+'	O	O
+s	O	O
+my	O	O
+last	O	O
+choir	O	O
+concert	O	O
+😭	O	O
+😭	O	O
+😭	O	O
+😭	O	O
+😭	O	O
+
+IMGID:17_06_7228
+English	B-organization	B-sports_league
+Premier	I-organization	I-sports_league
+League	I-organization	I-sports_league
+side	O	O
+Stoke	B-organization	B-sports_team
+City	I-organization	I-sports_team
+the	O	O
+latest	O	O
+to	O	O
+inquire	O	O
+about	O	O
+Mubarak	B-person	B-athlete
+Wakaso	I-person	I-athlete
+
+IMGID:72978
+RT	O	O
+@	O	O
+HuffingtonPost	O	O
+:	O	O
+Sarah	B-person	B-actor
+Hyland	I-person	I-actor
+#	O	O
+Emmys	B-other	B-award
+
+IMGID:94081
+RT	O	O
+@	O	O
+UABaseball	O	O
+:	O	O
+RT	O	O
+&	O	O
+amp	O	O
+;	O	O
+Follow	O	O
+to	O	O
+win	O	O
+a	O	O
+pair	O	O
+of	O	O
+Clayton	B-person	B-athlete
+Kershaw	I-person	I-athlete
+signed	O	O
+cleats	O	O
+!	O	O
+Full	O	O
+rules	O	O
+:	O	O
+
+IMGID:1436101
+After	O	O
+two	O	O
+months	O	O
+in	O	O
+office	O	O
+,	O	O
+Pentagon	B-organization	B-government_agency
+chief	O	O
+Ash	B-person	B-politician
+Carter	I-person	I-politician
+holds	O	O
+first	O	O
+press	O	O
+conference	O	O
+.	O	O
+.	O	O
+.	O	O
+starting	O	O
+soon	O	O
+
+IMGID:414467
+Life	O	O
+of	O	O
+the	O	O
+Sea	B-location	B-location_other
+Bajau	I-location	I-location_other
+in	O	O
+Sabah	B-location	B-state
+.	O	O
+Beautiful	O	O
+photo	O	O
+by	O	O
+Alex	B-person	B-artist
+Goh	I-person	I-artist
+#	O	O
+MalaysiaTrulyAsia	O	O
+#	O	O
+MyFest2015	O	O
+#	O	O
+VisitSabah	O	O
+#	O	O
+ttot	O	O
+
+IMGID:1097438
+RT	O	O
+@	O	O
+TBTimes	O	O
+_	O	O
+Rays	B-organization	B-sports_team
+:	O	O
+#	O	O
+Rays	B-organization	B-sports_team
+have	O	O
+the	O	O
+Tommy	B-organization	B-band
+Tutone	I-organization	I-band
+Jenny	O	O
+lineup	O	O
+:	O	O
+867	O	O
+-	O	O
+5309	O	O
+
+IMGID:1451788
+RT	O	O
+@	O	O
+GeorgetownHoops	O	O
+:	O	O
+Happy	O	O
+Birthday	O	O
+,	O	O
+Otto	B-person	B-athlete
+!	O	O
+!	O	O
+#	O	O
+H4L	O	O
+#	O	O
+WeAreGeorgetown	O	O
+
+IMGID:233453
+CMYK	B-product	B-brand_name_products
+have	O	O
+arrived	O	O
+.	O	O
+Bring	O	O
+on	O	O
+the	O	O
+books	O	O
+!	O	O
+#	O	O
+randomhousearchive	O	O
+
+IMGID:746237
+@	O	O
+cynthia4877	O	O
+Good	O	O
+morning	O	O
+to	O	O
+you	O	O
+,	O	O
+my	O	O
+sweet	O	O
+precious	O	O
+Cynthia	B-person	B-character
+.	O	O
+Missed	O	O
+you	O	O
+,	O	O
+dearly	O	O
+.	O	O
+LOL	O	O
+
+IMGID:280626
+Turns	O	O
+out	O	O
+Pretty	B-organization	B-band
+Ricky	I-organization	I-band
+was	O	O
+pretty	O	O
+icky	O	O
+in	O	O
+Wellington	B-location	B-city
+.	O	O
+
+IMGID:16_05_27_670
+Ireland	B-organization	B-sports_team
+manager	O	O
+is	O	O
+full	O	O
+of	O	O
+praise	O	O
+for	O	O
+the	O	O
+fans	O	O
+in	O	O
+the	O	O
+match	O	O
+programme	O	O
+.	O	O
+Another	O	O
+memorable	O	O
+night	O	O
+ahead	O	O
+?	O	O
+#	O	O
+RTEsoccer	O	O
+
+IMGID:74581
+RT	O	O
+@	O	O
+BBCNewsAsia	O	O
+:	O	O
+Journalists	O	O
+in	O	O
+#	O	O
+Afghanistan	B-location	B-country
+pay	O	O
+tribute	O	O
+to	O	O
+Sardar	B-person	B-journalist
+Ahmad	I-person	I-journalist
+,	O	O
+AFP	O	O
+reporter	O	O
+killed	O	O
+in	O	O
+Taliban	B-organization	B-social_organization
+attack	O	O
+http	O	O
+…	O	O
+
+IMGID:16_05_26_230
+Fremont	B-location	B-road
+Street	I-location	I-road
+closed	O	O
+from	O	O
+13	O	O
+th	O	O
+-	O	O
+7	O	O
+th	O	O
+streets	O	O
+9	O	O
+a	O	O
+.	O	O
+m	O	O
+.	O	O
+-	O	O
+1	O	O
+p	O	O
+.	O	O
+m	O	O
+.	O	O
+Saturday	O	O
+for	O	O
+Carnaval	B-event	B-festival
+Parade	O	O
+.	O	O
+#	O	O
+vegastraffic	O	O
+
+IMGID:16_05_16_315
+Kristen	B-person	B-actor
+Stewart	I-person	I-actor
+movie	O	O
+booed	O	O
+at	O	O
+the	O	O
+#	O	O
+CannesFilmFestival	B-event	B-festival
+:	O	O
+
+IMGID:O_3701
+The	O	O
+best	O	O
+actor	O	O
+of	O	O
+Harry	B-art	B-film_and_television_works
+Potter	I-art	I-film_and_television_works
+and	I-art	I-film_and_television_works
+the	I-art	I-film_and_television_works
+cursed	I-art	I-film_and_television_works
+child	I-art	I-film_and_television_works
+.	O	O
+I	O	O
+love	O	O
+you	O	O
+❤	O	O
+️	O	O
+.	O	O
+I	O	O
+want	O	O
+to	O	O
+meet	O	O
+you	O	O
+@	O	O
+Theo_Ancient	B-person	B-actor
+
+IMGID:17_06_1876
+Our	O	O
+Kickoff	O	O
+Festival	O	O
+is	O	O
+less	O	O
+than	O	O
+2	O	O
+weeks	O	O
+away	O	O
+!	O	O
+Get	O	O
+those	O	O
+tickets	O	O
+:	O	O
+
+IMGID:1777996
+Happy	O	O
+to	O	O
+announce	O	O
+Wezi	B-organization	B-company
+Wezi	I-organization	I-company
+as	O	O
+Successful	O	O
+business	O	O
+financed	O	O
+by	O	O
+early	O	O
+stage	O	O
+investors	O	O
+#	O	O
+EBAN2015	O	O
+#	O	O
+AngelSummit	O	O
+
+IMGID:O_37
+Sarah	B-person	B-actor
+Jessica	I-person	I-actor
+Parker	I-person	I-actor
+underwhelms	O	O
+as	O	O
+she	O	O
+hits	O	O
+the	O	O
+2016	O	O
+Met	B-event	B-festival
+Gala	I-event	I-festival
+red	O	O
+carpet	O	O
+#	O	O
+MetGala	B-event	B-festival
+
+IMGID:564725
+RT	O	O
+@	O	O
+runnersworld	O	O
+:	O	O
+Lelisa	B-person	B-athlete
+Desisa	I-person	I-athlete
+wins	O	O
+2015	O	O
+#	O	O
+BostonMarathon	O	O
+
+IMGID:1447416
+Follow	O	O
+the	O	O
+European	B-organization	B-government_agency
+Parliament	I-organization	I-government_agency
+on	O	O
+#	O	O
+LinkedIn	B-other	B-website
+and	O	O
+join	O	O
+in	O	O
+the	O	O
+discussion	O	O
+:	O	O
+https	O	O
+:	O	O
+/	O	O
+/	O	O
+t	O	O
+.	O	O
+co	O	O
+/	O	O
+3wk41JiVmf	O	O
+
+IMGID:16_05_09_1140
+Beautiful	O	O
+afternoon	O	O
+out	O	O
+at	O	O
+baseball	O	O
+and	O	O
+tennis	O	O
+!	O	O
+#	O	O
+SpartanPride	O	O
+
+IMGID:1815922
+Fred	B-person	B-businessman
+McMahon	I-person	I-businessman
+speaks	O	O
+to	O	O
+threats	O	O
+to	O	O
+the	O	O
+rule	O	O
+of	O	O
+law	O	O
+in	O	O
+Hong	B-location	B-city
+Kong	I-location	I-city
+@	O	O
+Lion	O	O
+_	O	O
+Rock	O	O
+@	O	O
+FraserInstitute	O	O
+Room	O	O
+tense	O	O
+.	O	O
+#	O	O
+umhk	O	O
+
+IMGID:O_3132
+In	O	O
+his	O	O
+final	O	O
+days	O	O
+of	O	O
+the	O	O
+presidency	O	O
+,	O	O
+President	O	O
+Barack	B-person	B-politician
+Obama	I-person	I-politician
+has	O	O
+lost	O	O
+the	O	O
+little	O	O
+bit	O	O
+of	O	O
+chill	O	O
+that	O	O
+was	O	O
+left	O	O
+.	O	O
+
+IMGID:33252
+RT	O	O
+@	O	O
+business	O	O
+:	O	O
+A	O	O
+brief	O	O
+illustrated	O	O
+history	O	O
+of	O	O
+Ferrari	B-organization	B-company
+
+IMGID:17_06_3648
+Made	O	O
+it	O	O
+safely	O	O
+to	O	O
+Campbell	B-event	B-festival
+Bay	I-event	I-festival
+Music	I-event	I-festival
+Festival	I-event	I-festival
+,	O	O
+so	O	O
+happy	O	O
+to	O	O
+be	O	O
+here	O	O
+.	O	O
+☀	O	O
+
+IMGID:16_05_20_802
+I	O	O
+'	O	O
+m	O	O
+so	O	O
+bored	O	O
+this	O	O
+week	O	O
+.	O	O
+Fancy	O	O
+to	O	O
+have	O	O
+a	O	O
+cam	O	O
+chat	O	O
+or	O	O
+meet	O	O
+?	O	O
+Link	O	O
+in	O	O
+bio	O	O
+.	O	O
+#	O	O
+football	O	O
+#	O	O
+jeans	O	O
+#	O	O
+australia	B-location	B-country
+#	O	O
+baseball	O	O
+
+IMGID:O_1533
+Donald	B-person	B-politician
+Trump	I-person	I-politician
+doesn	O	O
+'	O	O
+t	O	O
+plan	O	O
+to	O	O
+release	O	O
+any	O	O
+of	O	O
+his	O	O
+tax	O	O
+returns	O	O
+
+IMGID:31886
+Cooties	O	O
+.	O	O
+RT	O	O
+@	O	O
+Calvinn	O	O
+_	O	O
+Hobbes	O	O
+:	O	O
+Calvin	B-art	B-art_other
+and	I-art	I-art_other
+Hobbes	I-art	I-art_other
+on	O	O
+the	O	O
+subject	O	O
+of	O	O
+love	O	O
+.	O	O
+They	O	O
+know	O	O
+how	O	O
+it	O	O
+really	O	O
+works	O	O
+.	O	O
+
+IMGID:12887
+Tragic	O	O
+loss	O	O
+Prof	B-person	B-intellectual
+Aidan	I-person	I-intellectual
+Halligan	I-person	I-intellectual
+,	O	O
+public	O	O
+health	O	O
+pioneer	O	O
+combined	O	O
+heart	O	O
+&	O	O
+amp	O	O
+;	O	O
+intellect	O	O
+caring	O	O
+for	O	O
+most	O	O
+needy	O	O
+#	O	O
+PHFest2015	O	O
+
+IMGID:16_05_01_540
+TWICE	B-organization	B-band
+’	O	O
+s	O	O
+Tzuyu	B-person	B-musician
+,	O	O
+Jungyeon	B-person	B-musician
+,	O	O
+And	O	O
+Nayeon	B-person	B-musician
+Make	O	O
+A	O	O
+Surprise	O	O
+Appearance	O	O
+On	O	O
+“	O	O
+Gag	B-art	B-music
+Concert	I-art	I-music
+”	O	O
+
+IMGID:727447
+Anthro	O	O
+of	O	O
+precious	O	O
+minerals	O	O
+workshop	O	O
+today	O	O
+at	O	O
+the	O	O
+Royal	B-building	B-cultural_place
+Ontario	I-building	I-cultural_place
+Museum	I-building	I-cultural_place
+.	O	O
+Crystal	O	O
+addition	O	O
+seems	O	O
+so	O	O
+fitting	O	O
+
+IMGID:494092
+@	O	O
+BuzzFeed	O	O
+:	O	O
+The	O	O
+ages	O	O
+of	O	O
+all	O	O
+of	O	O
+the	O	O
+Disney	B-person	B-character
+Princesses	I-person	I-character
+http	O	O
+:	O	O
+/	O	O
+/	O	O
+t	O	O
+.	O	O
+co	O	O
+/	O	O
+qgdUFMsBt3	O	O
+This	O	O
+is	O	O
+quite	O	O
+worrying	O	O
+.	O	O
+
+IMGID:16_05_13_892
+Kim	B-person	B-actor
+and	O	O
+Khloe	B-person	B-actor
+take	O	O
+the	O	O
+Beyoncé	B-person	B-musician
+concert	O	O
+
+IMGID:16_05_03_691
+When	O	O
+someone	O	O
+'	O	O
+s	O	O
+life	O	O
+is	O	O
+miserable	O	O
+so	O	O
+they	O	O
+try	O	O
+to	O	O
+rain	O	O
+on	O	O
+my	O	O
+never	O	O
+ending	O	O
+parade	O	O
+.	O	O
+
+IMGID:16_05_28_945
+Got	O	O
+our	O	O
+new	O	O
+price	O	O
+board	O	O
+.	O	O
+.	O	O
+.	O	O
+come	O	O
+and	O	O
+get	O	O
+a	O	O
+freshly	O	O
+made	O	O
+welshcake	O	O
+!	O	O
+#	O	O
+hayfestival	B-event	B-festival
+
+IMGID:23584
+RT	O	O
+@	O	O
+NYTArchives	O	O
+:	O	O
+The	B-organization	B-news_agency
+New	I-organization	I-news_agency
+York	I-organization	I-news_agency
+Times	I-organization	I-news_agency
+discovers	O	O
+guacamole	O	O
+in	O	O
+1953	O	O
+.	O	O
+
+IMGID:17_06_11859
+@	O	O
+FootballNews756	B-organization	B-news_agency
+It	O	O
+was	O	O
+prolly	O	O
+a	O	O
+prank	O	O
+.	O	O
+Here	O	O
+'	O	O
+s	O	O
+another	O	O
+example	O	O
+lol	O	O
+
+IMGID:16_05_31_111
+NHL	B-organization	B-sports_league
+Ban	O	O
+'	O	O
+s	O	O
+Slava	B-person	B-athlete
+Voynov	I-person	I-athlete
+from	O	O
+Playing	O	O
+in	O	O
+World	O	O
+Cup	O	O
+of	O	O
+Hockey	O	O
+.	O	O
+.	O	O
+.	O	O
+
+IMGID:70789
+RT	O	O
+@	O	O
+KrekHak	O	O
+:	O	O
+IKEA	B-organization	B-company
+is	O	O
+leuk	O	O
+,	O	O
+dat	O	O
+is	O	O
+duidelijk	O	O
+.	O	O
+https	O	O
+:	O	O
+/	O	O
+/	O	O
+t	O	O
+.	O	O
+co	O	O
+/	O	O
+Bdz42NHUTj	O	O
+
+IMGID:63739
+RT	O	O
+@	O	O
+jstorres	O	O
+:	O	O
+How	O	O
+to	O	O
+Use	O	O
+'	O	O
+The	B-other	B-ordinance
+Katelyn	I-other	I-ordinance
+Rule	I-other	I-ordinance
+'	O	O
+to	O	O
+Empower	O	O
+Your	O	O
+People	O	O
+http	O	O
+:	O	O
+/	O	O
+/	O	O
+t	O	O
+.	O	O
+co	O	O
+/	O	O
+x0JRleaIBp	O	O
+|	O	O
+https	O	O
+:	O	O
+/	O	O
+/	O	O
+t	O	O
+.	O	O
+co	O	O
+/	O	O
+DYMhdBRdGS	O	O
+
+IMGID:1038311
+RT	O	O
+@	O	O
+citizentvkenya	O	O
+:	O	O
+President	B-person	B-politician
+Kenyatta	I-person	I-politician
+and	O	O
+First	O	O
+Lady	O	O
+Margaret	B-person	B-politician
+Kenyatta	I-person	I-politician
+arrive	O	O
+for	O	O
+#	O	O
+NyaathasBeatification	O	O
+
+IMGID:17_06_9527
+Great	O	O
+football	O	O
+mash	O	O
+up	O	O
+this	O	O
+afternoon	O	O
+great	O	O
+day	O	O
+in	O	O
+Smethwick	B-location	B-city
+😆	O	O
+
+IMGID:924068
+RT	O	O
+@	O	O
+ssteven2	O	O
+:	O	O
+Mayor	B-person	B-politician
+Steve	I-person	I-politician
+Adler	I-person	I-politician
+speaks	O	O
+up	O	O
+to	O	O
+Save	B-other	B-ordinance
+Texas	I-other	I-ordinance
+Schools	I-other	I-ordinance
+!	O	O
+@	O	O
+SaveTXschools	O	O
+@	O	O
+johnkuhntx	O	O
+@	O	O
+DianeRavitch	O	O
+
+IMGID:877168
+RT	O	O
+@	O	O
+ActionComplete	O	O
+:	O	O
+Once	O	O
+we	O	O
+accept	O	O
+our	O	O
+limits	O	O
+,	O	O
+we	O	O
+go	O	O
+beyond	O	O
+them	O	O
+.	O	O
+~	O	O
+Albert	B-person	B-intellectual
+Einstein	I-person	I-intellectual
+#	O	O
+quote	O	O
+#	O	O
+quotes	O	O
+
+IMGID:1121501
+RT	O	O
+@	O	O
+OnlyInBOS	O	O
+:	O	O
+An	O	O
+incredible	O	O
+Foo	B-organization	B-band
+Fighters	I-organization	I-band
+sunset	O	O
+over	O	O
+Fenway	O	O
+tonight	O	O
+.	O	O
+
+IMGID:16_05_31_442
+Browns	B-organization	B-sports_team
+'	O	O
+Terrelle	B-person	B-athlete
+Pryor	I-person	I-athlete
+Has	O	O
+Found	O	O
+Perfect	O	O
+Situation	O	O
+to	O	O
+Succeed	O	O
+as	O	O
+an	O	O
+NFL	B-organization	B-sports_league
+…	O	O
+
+IMGID:72943
+RT	O	O
+@	O	O
+ChiLoopAlliance	O	O
+:	O	O
+Crews	O	O
+uncovered	O	O
+old	O	O
+streetcar	O	O
+rails	O	O
+yesterday	O	O
+while	O	O
+working	O	O
+on	O	O
+the	O	O
+BRT	B-product	B-product_other
+project	O	O
+in	O	O
+the	O	O
+Loop	O	O
+.	O	O
+HT	O	O
+@	O	O
+ChicagosMayor	O	O
+
+IMGID:830747
+RT	O	O
+@	O	O
+stjohnsphoto	O	O
+:	O	O
+Great	O	O
+photo	O	O
+of	O	O
+Matisse	B-person	B-artist
+at	O	O
+work	O	O
+#	O	O
+art	O	O
+#	O	O
+photography	O	O
+
+IMGID:16_05_08_984
+Burnley	B-organization	B-sports_team
+will	O	O
+be	O	O
+joined	O	O
+in	O	O
+the	O	O
+premier	B-organization	B-sports_league
+league	I-organization	I-sports_league
+by	O	O
+Middlesbrough	B-organization	B-sports_team
+who	O	O
+secured	O	O
+promotion	O	O
+with	O	O
+a	O	O
+1	O	O
+-	O	O
+1	O	O
+v	O	O
+Brighton	B-organization	B-sports_team
+!	O	O
+
+IMGID:1355122
+RT	O	O
+@	O	O
+ArianaGrande	O	O
+:	O	O
+happy	O	O
+1st	O	O
+birthday	O	O
+Toulouse	B-other	B-animal
+my	O	O
+baby	O	O
+my	O	O
+heart	O	O
+my	O	O
+joy	O	O
+#	O	O
+toulouseyygooose	O	O
+#	O	O
+toulouseday	O	O
+
+IMGID:17_06_10224
+Pro	B-product	B-game
+Evolution	I-product	I-game
+Soccer	I-product	I-game
+2018	I-product	I-game
+'	O	O
+continues	O	O
+to	O	O
+be	O	O
+a	O	O
+pleasure	O	O
+to	O	O
+play	O	O
+#	O	O
+TechBuzz	B-organization	B-news_agency
+
+IMGID:17_06_13627
+With	O	O
+only	O	O
+2	O	O
+picks	O	O
+left	O	O
+before	O	O
+the	O	O
+#	O	O
+Spurs	B-organization	B-sports_team
+,	O	O
+here	O	O
+'	O	O
+s	O	O
+the	O	O
+top	O	O
+10	O	O
+remaining	O	O
+prospects	O	O
+in	O	O
+the	O	O
+draft	O	O
+#	O	O
+NBA	B-organization	B-sports_league
+#	O	O
+NBADraft	O	O
+
+IMGID:1003370
+RT	O	O
+@	O	O
+jackbenedwards	O	O
+:	O	O
+"	O	O
+Helena	B-person	B-actor
+Bonham	I-person	I-actor
+Carter	I-person	I-actor
+and	O	O
+Time	B-person	B-actor
+Burton	I-person	I-actor
+have	O	O
+split	O	O
+after	O	O
+13	O	O
+years	O	O
+"	O	O
+
+IMGID:16_05_06_451
+Beyonce	B-person	B-musician
+in	O	O
+the	O	O
+rain	O	O
+at	O	O
+one	O	O
+of	O	O
+her	O	O
+concerts	O	O
+,	O	O
+still	O	O
+looking	O	O
+like	O	O
+a	O	O
+goddess	O	O
+
+IMGID:13826
+RT	O	O
+@	O	O
+DeadLittleLiars	O	O
+:	O	O
+Lucy	B-person	B-actor
+Hale	I-person	I-actor
+looks	O	O
+amazing	O	O
+here	O	O
+wow	O	O
+#	O	O
+PLL	O	O
+#	O	O
+PrettyLittleLiars	O	O
+
+IMGID:489826
+Getting	O	O
+abuse	O	O
+because	O	O
+I	O	O
+said	O	O
+Justin	B-person	B-musician
+beiber	I-person	I-musician
+looked	O	O
+like	O	O
+a	O	O
+girl	O	O
+#	O	O
+oops	O	O
+
+IMGID:17_06_8183
+What	O	O
+'	O	O
+s	O	O
+better	O	O
+than	O	O
+baseball	O	O
+on	O	O
+a	O	O
+weekday	O	O
+afternoon	O	O
+?	O	O
+
+IMGID:683849
+RT	O	O
+@	O	O
+F00DP0RN	O	O
+:	O	O
+Red	B-product	B-product_other
+Velvet	I-product	I-product_other
+Ice	I-product	I-product_other
+Cream	I-product	I-product_other
+Cake	I-product	I-product_other
+#	O	O
+F00DP0RN	O	O
+
+IMGID:22476
+RT	O	O
+@	O	O
+NCAA	O	O
+:	O	O
+Lauren	B-person	B-athlete
+Hill	I-person	I-athlete
+takes	O	O
+the	O	O
+court	O	O
+for	O	O
+a	O	O
+game	O	O
+no	O	O
+one	O	O
+will	O	O
+soon	O	O
+forget	O	O
+.	O	O
+#	O	O
+PlayFor22	O	O
+
+IMGID:10313
+RT	O	O
+@	O	O
+whiteboysdamn	O	O
+:	O	O
+Johnny	B-person	B-actor
+Depp	I-person	I-actor
+,	O	O
+1987	O	O
+
+IMGID:17_01_24115
+It	O	O
+'	O	O
+s	O	O
+game	O	O
+day	O	O
+,	O	O
+#	O	O
+OrangeNation	O	O
+!	O	O
+Syracuse	B-organization	B-educational_institution
+basketball	O	O
+hosts	O	O
+Boston	B-organization	B-educational_institution
+College	I-organization	I-educational_institution
+today	O	O
+at	O	O
+4	O	O
+p	O	O
+.	O	O
+m	O	O
+
+IMGID:16_05_22_607
+Yesterday	O	O
+I	O	O
+was	O	O
+at	O	O
+my	O	O
+first	O	O
+choir	O	O
+concert	O	O
+now	O	O
+16	O	O
+concerts	O	O
+later	O	O
+I	O	O
+'	O	O
+m	O	O
+done	O	O
+💙	O	O
+💛	O	O
+🎓	O	O
+🎶	O	O
+
+IMGID:1740960
+RT	O	O
+@	O	O
+DominicWaghorn	O	O
+:	O	O
+Mark	B-person	B-businessman
+Balma	I-person	I-businessman
+will	O	O
+sell	O	O
+his	O	O
+portrait	O	O
+of	O	O
+#	O	O
+CecilTheLion	O	O
+to	O	O
+raise	O	O
+money	O	O
+for	O	O
+a	O	O
+conservation	O	O
+charity	O	O
+
+IMGID:820225
+Enjoyed	O	O
+our	O	O
+morning	O	O
+visit	O	O
+to	O	O
+Tennant	B-organization	B-company
+Truck	I-organization	I-company
+Lines	I-organization	I-company
+in	O	O
+Colona	B-location	B-city
+for	O	O
+early	O	O
+voting	O	O
+rally	O	O
+!	O	O
+Vote	O	O
+today	O	O
+!	O	O
+
+IMGID:O_109
+Tom	B-person	B-athlete
+Brady	I-person	I-athlete
+is	O	O
+No	O	O
+.	O	O
+1	O	O
+on	O	O
+the	O	O
+#	O	O
+NFLTop100	O	O
+Players	O	O
+of	O	O
+2017	O	O
+!	O	O
+
+IMGID:331803
+RT	O	O
+@	O	O
+NatiTal	O	O
+:	O	O
+#	O	O
+livesketching	O	O
+Robert	B-person	B-businessman
+Carter	I-person	I-businessman
+from	O	O
+@	O	O
+Fedex	O	O
+at	O	O
+#	O	O
+AkamaiEdge	B-organization	B-company
+
+IMGID:304783
+Jens	B-person	B-businessman
+Nielsen	I-person	I-businessman
+and	O	O
+Michele	B-person	B-businessman
+Sabban	I-person	I-businessman
+on	O	O
+closing	O	O
+ceremony	O	O
+#	O	O
+wcs2014	O	O
+#	O	O
+COP20	O	O
+@	O	O
+JensNielsen26	O	O
+
+IMGID:16_05_05_921
+so	O	O
+happy	O	O
+that	O	O
+i	O	O
+got	O	O
+to	O	O
+meet	O	O
+troye	B-person	B-musician
+w	O	O
+my	O	O
+best	O	O
+friend	O	O
+n	O	O
+experience	O	O
+his	O	O
+concert	O	O
+w	O	O
+her	O	O
+💜	O	O
+
+IMGID:16_05_20_1038
+Kamiakin	B-organization	B-sports_team
+basketball	O	O
+players	O	O
+moving	O	O
+on	O	O
+:	O	O
+Larson	B-person	B-athlete
+and	O	O
+Nelson	B-person	B-athlete
+.	O	O
+Good	O	O
+luck	O	O
+guys	O	O
+
+IMGID:17_06_9300
+NHL	B-organization	B-sports_league
+draft	O	O
+2017	O	O
+:	O	O
+Avalanche	B-organization	B-sports_team
+select	O	O
+high	O	O
+-	O	O
+upside	O	O
+defenseman	O	O
+Cale	B-person	B-athlete
+Makar	I-person	I-athlete
+with	O	O
+No	O	O
+.	O	O
+4	O	O
+pick	O	O
+
+IMGID:768704
+RT	O	O
+@	O	O
+EXO	O	O
+_	O	O
+FANBASE	O	O
+:	O	O
+140704	O	O
+Sehun	B-person	B-musician
+@	O	O
+Chengdu	O	O
+Airport	O	O
+(	O	O
+cr	O	O
+:	O	O
+the	O	O
+prince	O	O
+)	O	O
+
+IMGID:O_2168
+Lady	B-person	B-musician
+Gaga	I-person	I-musician
+at	O	O
+the	O	O
+#	O	O
+Indy500	B-event	B-sports_event
+today	O	O
+YAAAS	O	O
+MAMA	O	O
+you	O	O
+look	O	O
+so	O	O
+good	O	O
+!	O	O
+🙌	O	O
+🏼	O	O
+
+IMGID:17_06_2799
+1984	O	O
+LSU	B-organization	B-sports_team
+vs	O	O
+Tulane	B-organization	B-sports_team
+football	O	O
+fight	O	O
+-	O	O
+
+IMGID:17_06_12458
+@	O	O
+joedonbaker	B-person	B-actor
+Bonus	O	O
+point	O	O
+for	O	O
+"	O	O
+The	O	O
+Wire	O	O
+"	O	O
+reference	O	O
+.	O	O
+
+IMGID:O_2998
+Donald	B-person	B-politician
+Trump	I-person	I-politician
+'	O	O
+s	O	O
+budget	O	O
+slashes	O	O
+government	O	O
+junk	O	O
+food	O	O
+pipeline	O	O
+to	O	O
+the	O	O
+poor	O	O
+#	O	O
+news	O	O
+
+IMGID:418335
+Rep	O	O
+.	O	O
+Coble	B-person	B-politician
+Apologizes	O	O
+for	O	O
+disappointing	O	O
+those	O	O
+who	O	O
+wanted	O	O
+him	O	O
+to	O	O
+run	O	O
+for	O	O
+re	O	O
+-	O	O
+election	O	O
+.	O	O
+
+IMGID:1008376
+RT	O	O
+@	O	O
+SMTownEngSub	O	O
+:	O	O
+[	O	O
+ENG	O	O
+SUB	O	O
+]	O	O
+[	O	O
+HD	O	O
+]	O	O
+150625	O	O
+SBS	B-art	B-film_and_television_works
+MTV	I-art	I-film_and_television_works
+The	B-art	B-film_and_television_works
+Show	I-art	I-film_and_television_works
+BTS	I-art	I-film_and_television_works
+with	O	O
+EXO	B-organization	B-band
+
+IMGID:62781
+RT	O	O
+@	O	O
+common	O	O
+:	O	O
+Happy	O	O
+Birthday	O	O
+to	O	O
+one	O	O
+of	O	O
+my	O	O
+favorite	O	O
+artists	O	O
+and	O	O
+one	O	O
+of	O	O
+the	O	O
+greatest	O	O
+ever	O	O
+!	O	O
+Lauryn	B-person	B-artist
+Hill	I-person	I-artist
+#	O	O
+greatness	O	O
+
+IMGID:16_05_08_734
+Giancarlo	B-person	B-athlete
+Stanton	I-person	I-athlete
+hit	O	O
+a	O	O
+mammoth	O	O
+home	O	O
+run	O	O
+that	O	O
+has	O	O
+the	O	O
+baseball	O	O
+world	O	O
+buzzing	O	O
+-	O	O
+
+IMGID:16_05_08_747
+Cutest	O	O
+little	O	O
+baseball	O	O
+pants	O	O
+ever	O	O
+.	O	O
+
+IMGID:1750474
+RT	O	O
+@	O	O
+HoustonRockets	O	O
+:	O	O
+James	B-person	B-athlete
+Harden	I-person	I-athlete
+.	O	O
+#	O	O
+NBAMVP	O	O
+
+IMGID:653976
+RT	O	O
+@	O	O
+YIXlNG	B-person	B-musician
+:	O	O
+EXO	B-organization	B-band
+M	I-organization	I-band
+for	O	O
+CECI	B-organization	B-news_agency
+Magazine	I-organization	I-news_agency
+June	O	O
+2013	O	O
+#	O	O
+chen	O	O
+#	O	O
+xiumin	B-person	B-artist
+
+IMGID:90083
+RT	O	O
+@	O	O
+TSBible	O	O
+:	O	O
+One	O	O
+for	O	O
+the	O	O
+Liverpool	B-organization	B-sports_team
+fans	O	O
+to	O	O
+favourite	O	O
+.	O	O
+
+IMGID:17_06_15729
+Syria	B-location	B-country
+conflict	O	O
+:	O	O
+Russia	B-location	B-country
+issues	O	O
+warning	O	O
+after	O	O
+US	B-location	B-country
+coalition	O	O
+downs	O	O
+jet	O	O
+
+IMGID:735030
+The	O	O
+job	O	O
+of	O	O
+the	O	O
+#	O	O
+artist	O	O
+is	O	O
+always	O	O
+to	O	O
+deepen	O	O
+the	O	O
+mystery	O	O
+.	O	O
+Francis	B-person	B-author
+Bacon	I-person	I-author
+#	O	O
+amwriting	O	O
+#	O	O
+writing	O	O
+
+IMGID:O_1905
+Donald	B-person	B-politician
+Trump	I-person	I-politician
+is	O	O
+"	O	O
+ignorant	O	O
+about	O	O
+Islam	O	O
+,	O	O
+"	O	O
+London	B-location	B-city
+'	O	O
+s	O	O
+Muslim	O	O
+mayor	O	O
+says	O	O
+
+IMGID:481201
+Thanks	O	O
+#	O	O
+CVCC	B-organization	B-social_organization
+for	O	O
+#	O	O
+Hagerstown	B-location	B-city
+bike	O	O
+tour	O	O
+
+IMGID:1993075
+Haunting	O	O
+watercolor	O	O
+paintings	O	O
+of	O	O
+abandoned	O	O
+places	O	O
+by	O	O
+Chelle	B-person	B-artist
+Destefano	I-person	I-artist
+
+IMGID:768161
+With	O	O
+the	O	O
+jordan	B-organization	B-band
+#	O	O
+bagpipe	O	O
+band	O	O
+at	O	O
+Hashem	B-location	B-city
+downtown	I-location	I-city
+#	O	O
+amman	O	O
+#	O	O
+jo	O	O
+
+IMGID:17_06_7130
+Jennifer	B-person	B-musician
+Lopez	I-person	I-musician
+Seriously	O	O
+Called	O	O
+Drake	B-person	B-musician
+a	O	O
+'	O	O
+Booty	O	O
+Call	O	O
+'	O	O
+at	O	O
+a	O	O
+Concert	O	O
+
+IMGID:108810
+@	O	O
+lLoveCars	O	O
+Thanks	O	O
+for	O	O
+following	O	O
+.	O	O
+I	O	O
+love	O	O
+#	O	O
+Toyota	B-organization	B-company
+cars	O	O
+.	O	O
+
+IMGID:74518
+RT	O	O
+@	O	O
+WSJ	O	O
+:	O	O
+Tryon	B-other	B-animal
+is	O	O
+one	O	O
+of	O	O
+many	O	O
+dogs	O	O
+helping	O	O
+search	O	O
+for	O	O
+victims	O	O
+of	O	O
+the	O	O
+Washington	B-location	B-city
+mudslide	O	O
+:	O	O
+http	O	O
+:	O	O
+/	O	O
+/	O	O
+t	O	O
+.	O	O
+co	O	O
+/	O	O
+PCOXmy9VSo	O	O
+(	O	O
+Reuters	O	O
+)	O	O
+
+IMGID:31344
+RT	O	O
+@	O	O
+ClassicPixs	O	O
+:	O	O
+George	B-person	B-director
+Lucas	I-person	I-director
+with	O	O
+the	O	O
+prototype	O	O
+for	O	O
+R2D2	B-art	B-film_and_television_works
+,	O	O
+1975	O	O
+.	O	O
+
+IMGID:33901
+RT	O	O
+@	O	O
+businessinsider	O	O
+:	O	O
+News	B-organization	B-company
+Corp	I-organization	I-company
+is	O	O
+gearing	O	O
+up	O	O
+for	O	O
+a	O	O
+major	O	O
+expansion	O	O
+in	O	O
+Asia	B-location	B-continent
+
+IMGID:587868
+JKF	B-organization	B-company
+Ag	I-organization	I-company
+.	O	O
+Managing	O	O
+Director	O	O
+Rosemary	B-person	B-businessman
+Barasa	I-person	I-businessman
+handing	O	O
+over	O	O
+a	O	O
+cheque	O	O
+to	O	O
+Janet	B-person	B-person_other
+Mbugua	I-person	I-person_other
+in	O	O
+support	O	O
+of	O	O
+Inua	B-organization	B-social_organization
+Dada	I-organization	I-social_organization
+Foundation	I-organization	I-social_organization
+.	O	O
+
+IMGID:16_05_15_190
+Happy	O	O
+47	O	O
+th	O	O
+Birthday	O	O
+to	O	O
+the	O	O
+NFLs	B-organization	B-sports_league
+all	O	O
+-	O	O
+time	O	O
+leading	O	O
+rusher	O	O
+,	O	O
+Emmitt	B-person	B-athlete
+Smith	I-person	I-athlete
+!	O	O
+🎈	O	O
+.	O	O
+.	O	O
+.	O	O
+
+IMGID:569681
+Great	O	O
+illustrator	O	O
+:	O	O
+Kirsten	B-person	B-artist
+Sims	O	O
+-	O	O
+
+IMGID:O_1099
+Donald	B-person	B-politician
+Trump	I-person	I-politician
+must	O	O
+faint	O	O
+when	O	O
+he	O	O
+sees	O	O
+two	O	O
+walls	O	O
+this	O	O
+good	O	O
+.	O	O
+
+IMGID:750689
+Kielce	B-location	B-city
+-	O	O
+the	O	O
+host	O	O
+city	O	O
+of	O	O
+51st	O	O
+Europeade	B-event	B-festival
+2014	O	O
+.	O	O
+
+IMGID:41919
+Investigators	O	O
+remain	O	O
+at	O	O
+last	O	O
+known	O	O
+Roslindale	B-location	B-park
+address	O	O
+of	O	O
+terrorism	O	O
+suspect	O	O
+shot	O	O
+/	O	O
+killed	O	O
+by	O	O
+police	O	O
+in	O	O
+Boston	B-location	B-city
+today	O	O
+
+IMGID:16_05_10_729
+See	O	O
+the	O	O
+COOL	O	O
+scripts	O	O
+submitted	O	O
+so	O	O
+far	O	O
+this	O	O
+year	O	O
+to	O	O
+TERROR	B-event	B-festival
+FILM	I-event	I-festival
+FESTIVAL	I-event	I-festival
+!	O	O
+!	O	O
+
+IMGID:141416
+#	O	O
+VenzaGlamping	O	O
+group	O	O
+visiting	O	O
+Sideways	O	O
+-	O	O
+famed	O	O
+Sanford	B-organization	B-company
+Winery	I-organization	I-company
+.	O	O
+
+IMGID:1046070
+RT	O	O
+@	O	O
+thedailybeast	O	O
+:	O	O
+In	O	O
+Iowa	B-location	B-state
+,	O	O
+Trump	B-person	B-politician
+is	O	O
+the	O	O
+star	O	O
+,	O	O
+Hillary	B-person	B-politician
+is	O	O
+old	O	O
+news	O	O
+
+IMGID:154572
+ICYMI	O	O
+:	O	O
+Chinese	B-organization	B-organization_other
+Navy	I-organization	I-organization_other
+Ships	O	O
+Undertook	O	O
+#	O	O
+InnocentPassage	O	O
+In	O	O
+U	O	O
+.	O	O
+S	O	O
+.	O	O
+Territorial	O	O
+Waters	O	O
+(	O	O
+STORY	O	O
+)	O	O
+
+IMGID:743553
+Enjoying	O	O
+happy	O	O
+hour	O	O
+.	O	O
+.	O	O
+.	O	O
+because	O	O
+happy	O	O
+hour	O	O
+at	O	O
+Crosstown	B-building	B-entertainment_place
+Diner	I-building	I-entertainment_place
+is	O	O
+ALL	O	O
+DAY	O	O
+!	O	O
+#	O	O
+Bronx	B-location	B-city
+#	O	O
+HappyHour	O	O
+#	O	O
+Beer	O	O
+
+IMGID:O_4757
+When	O	O
+you	O	O
+'	O	O
+re	O	O
+raiding	O	O
+for	O	O
+hours	O	O
+with	O	O
+a	O	O
+friend	O	O
+then	O	O
+one	O	O
+piece	O	O
+of	O	O
+your	O	O
+loot	O	O
+drops	O	O
+and	O	O
+you	O	O
+both	O	O
+hit	O	O
+need	O	O
+.	O	O
+#	O	O
+warcraft	B-product	B-game
+
+IMGID:O_4474
+Is	O	O
+Kelly	B-person	B-athlete
+Slater	I-person	I-athlete
+'	O	O
+s	O	O
+artificial	O	O
+wave	O	O
+the	O	O
+future	O	O
+of	O	O
+surfing	O	O
+?	O	O
+-	O	O
+…	O	O
+
+IMGID:17_01_12762
+First	O	O
+of	O	O
+3	O	O
+main	O	O
+groups	O	O
+visited	O	O
+Utah	B-location	B-state
+State	I-location	I-state
+this	O	O
+weekend	O	O
+#	O	O
+USUFootball	B-organization	B-sports_team
+
+IMGID:21969
+RT	O	O
+@	O	O
+pakalupapito	O	O
+:	O	O
+me	O	O
+&	O	O
+amp	O	O
+;	O	O
+my	O	O
+brother	O	O
+kenye	B-person	B-musician
+i	O	O
+lov	O	O
+him	O	O
+
+IMGID:117192
+RT	O	O
+@	O	O
+SPACEdotcom	O	O
+:	O	O
+Curiosity	B-product	B-product_other
+Rover	I-product	I-product_other
+Drills	O	O
+Into	O	O
+Mars	B-product	B-product_other
+Rock	I-product	I-product_other
+,	O	O
+Finds	O	O
+Water	O	O
+
+IMGID:16_05_24_136
+The	B-organization	B-band
+Astor	I-organization	I-band
+Big	I-organization	I-band
+Band	I-organization	I-band
+concert	O	O
+raising	O	O
+money	O	O
+for	O	O
+@	O	O
+PoppyLegion	O	O
+18	O	O
+June	O	O
+at	O	O
+7	O	O
+:	O	O
+30	O	O
+pm	O	O
+.	O	O
+Why	O	O
+not	O	O
+swing	O	O
+by	O	O
+?	O	O
+#	O	O
+charitytuesday	O	O
+
+IMGID:O_590
+#	O	O
+Ellen	B-person	B-actor
+DeGeneres	I-person	I-actor
+is	O	O
+selling	O	O
+her	O	O
+Santa	B-location	B-city
+Barbara	I-location	I-city
+mansion	O	O
+for	O	O
+$	O	O
+45	O	O
+million	O	O
+—	O	O
+take	O	O
+a	O	O
+look	O	O
+inside	O	O
+
+IMGID:O_2112
+.	O	O
+@	O	O
+jk_rowling	B-person	B-author
+slams	O	O
+a	O	O
+new	O	O
+"	O	O
+Harry	B-art	B-written_work
+Potter	I-art	I-written_work
+"	O	O
+fan	O	O
+theory	O	O
+about	O	O
+Dumbledore	B-person	B-character
+
+IMGID:459003
+RT	O	O
+@	O	O
+ltsChuckBass	O	O
+:	O	O
+Leighton	B-person	B-actor
+&	O	O
+amp	O	O
+;	O	O
+Ed	B-person	B-actor
+are	O	O
+meant	O	O
+to	O	O
+be	O	O
+
+IMGID:711611
+RT	O	O
+@	O	O
+TonysAngle	O	O
+:	O	O
+Another	O	O
+chap	O	O
+pulling	O	O
+no	O	O
+punches	O	O
+(	O	O
+Martin	B-person	B-intellectual
+Wolf	I-person	I-intellectual
+)	O	O
+http	O	O
+:	O	O
+/	O	O
+/	O	O
+t	O	O
+.	O	O
+co	O	O
+/	O	O
+fzNPKVi5XP	O	O
+via	O	O
+@	O	O
+FT	O	O
+
+IMGID:264446
+Congrats	O	O
+From	O	O
+Pastor	O	O
+Wayne	B-person	B-actor
+Landry	I-person	I-actor
+Sr	O	O
+.	O	O
+
+IMGID:16097
+RT	O	O
+@	O	O
+ItsFoodPorn	O	O
+:	O	O
+Double	B-product	B-product_other
+Chocolate	I-product	I-product_other
+Brownies	I-product	I-product_other
+
+IMGID:1097614
+Gawker	B-other	B-website
+publishes	O	O
+a	O	O
+gay	O	O
+-	O	O
+shaming	O	O
+story	O	O
+that	O	O
+enrages	O	O
+everyone	O	O
+WITH	O	O
+a	O	O
+excerpt	O	O
+making	O	O
+Ted	B-person	B-politician
+Cruz	I-person	I-politician
+look	O	O
+good	O	O
+?	O	O
+Oh	O	O
+what	O	O
+a	O	O
+night	O	O
+.	O	O
+
+IMGID:786355
+RT	O	O
+@	O	O
+AndyNewportPA	O	O
+:	O	O
+Murdo	B-person	B-businessman
+McLeod	I-person	I-businessman
+and	O	O
+Walter	B-person	B-businessman
+Smith	I-person	I-businessman
+help	O	O
+launch	O	O
+new	O	O
+PR	O	O
+firm	O	O
+Level5	O	O
+
+IMGID:33364
+Jack	B-organization	B-band
+and	I-organization	I-band
+jack	I-organization	I-band
+is	O	O
+TT	O	O
+in	O	O
+Mexico	B-location	B-country
+@	O	O
+JackJackJohnson	O	O
+@	O	O
+jackgilinsky	O	O
+
+IMGID:71567
+RT	O	O
+@	O	O
+chicagotribune	O	O
+:	O	O
+White	B-organization	B-sports_team
+Sox	I-organization	I-sports_team
+'	O	O
+s	O	O
+Adam	B-person	B-athlete
+LaRoche	I-person	I-athlete
+grew	O	O
+up	O	O
+in	O	O
+baseball	O	O
+clubhouses	O	O
+;	O	O
+he	O	O
+wants	O	O
+his	O	O
+son	O	O
+to	O	O
+do	O	O
+the	O	O
+same	O	O
+
+IMGID:728750
+Mayor	O	O
+proclaims	O	O
+it	O	O
+National	B-event	B-festival
+Public	I-event	I-festival
+Works	I-event	I-festival
+Week	I-event	I-festival
+in	O	O
+#	O	O
+Shakopee	B-location	B-city
+
+IMGID:O_2563
+Potential	O	O
+Donald	B-person	B-politician
+Trump	I-person	I-politician
+VP	O	O
+pick	O	O
+Gov	O	O
+.	O	O
+Mary	B-person	B-politician
+Fallin	I-person	I-politician
+vetoes	O	O
+an	O	O
+Oklahoma	B-location	B-city
+bill	O	O
+blocking	O	O
+abortion	O	O
+
+IMGID:109247
+At	O	O
+#	O	O
+digitalbelgium	O	O
+:	O	O
+Robert	B-person	B-intellectual
+Cailliau	I-person	I-intellectual
+-	O	O
+Robots	O	O
+will	O	O
+be	O	O
+crawling	O	O
+the	O	O
+web	O	O
+instead	O	O
+of	O	O
+people	O	O
+
+IMGID:545985
+RT	O	O
+@	O	O
+BarbaraComstock	O	O
+:	O	O
+Virginia	B-location	B-state
+is	O	O
+ready	O	O
+to	O	O
+#	O	O
+GOTV	B-organization	B-news_agency
+tomorrow	O	O
+!	O	O
+#	O	O
+va10	O	O
+
+IMGID:16_05_26_761
+Maybe	O	O
+not	O	O
+wisest	O	O
+choice	O	O
+to	O	O
+be	O	O
+up	O	O
+at	O	O
+1	O	O
+:	O	O
+30	O	O
+a	O	O
+.	O	O
+m	O	O
+.	O	O
+watching	O	O
+#	O	O
+Pirates	B-organization	B-sports_team
+baseball	O	O
+10	O	O
+k	O	O
+miles	O	O
+away	O	O
+.	O	O
+Then	O	O
+again	O	O
+,	O	O
+maybe	O	O
+it	O	O
+is	O	O
+.	O	O
+
+IMGID:15107
+RT	O	O
+@	O	O
+DiscGolf4Women	O	O
+:	O	O
+"	O	O
+The	B-art	B-written_work
+Lure	I-art	I-written_work
+of	I-art	I-written_work
+Golf	I-art	I-written_work
+"	O	O
+-	O	O
+So	O	O
+True	O	O
+#	O	O
+DiscGolf	O	O
+
+IMGID:332282
+RT	O	O
+@	O	O
+photomeisterAZR	O	O
+:	O	O
+WOW	O	O
+-	O	O
+#	O	O
+12News	O	O
+viewer	O	O
+James	B-person	B-journalist
+Heffren	I-person	I-journalist
+just	O	O
+sent	O	O
+us	O	O
+this	O	O
+mini	O	O
+ice	O	O
+flow	O	O
+near	O	O
+the	O	O
+Carefree	B-location	B-road
+Highway	I-location	I-road
+.	O	O
+
+IMGID:356691
+RT	O	O
+@	O	O
+CUMHORAN	O	O
+:	O	O
+should	O	O
+I	O	O
+start	O	O
+the	O	O
+giveaway	O	O
+of	O	O
+the	O	O
+Larry	B-product	B-brand_name_products
+sweatshirt	I-product	I-brand_name_products
+now	O	O
+?	O	O
+
+IMGID:62647
+RT	O	O
+@	O	O
+MikeAndMike	O	O
+:	O	O
+"	O	O
+LeBron	B-person	B-athlete
+James	I-person	I-athlete
+should	O	O
+be	O	O
+the	O	O
+Finals	B-other	B-award
+MVP	I-other	I-award
+whether	O	O
+the	O	O
+Cavs	B-organization	B-sports_team
+win	O	O
+this	O	O
+series	O	O
+or	O	O
+not	O	O
+.	O	O
+"	O	O
+-	O	O
+@	O	O
+Espngreeny	O	O
+
+IMGID:30481
+RT	O	O
+@	O	O
+WSJ	O	O
+:	O	O
+If	O	O
+you	O	O
+invest	O	O
+in	O	O
+property	O	O
+in	O	O
+the	O	O
+Caribbean	B-location	B-location_other
+,	O	O
+you	O	O
+get	O	O
+citizenship	O	O
+
+IMGID:701474
+RT	O	O
+@	O	O
+SledgeHockey	O	O
+:	O	O
+Over	O	O
+20	O	O
+players	O	O
+on	O	O
+the	O	O
+ice	O	O
+@	O	O
+IceRinkWidnes	B-building	B-sports_facility
+for	O	O
+the	O	O
+International	B-organization	B-educational_institution
+Sledge	I-organization	I-educational_institution
+Hockey	I-organization	I-educational_institution
+School	I-organization	I-educational_institution
+@	O	O
+IPCISH	O	O
+
+IMGID:119897
+RT	O	O
+@	O	O
+RapUp	O	O
+:	O	O
+The	O	O
+Weeknd	O	O
+and	O	O
+the	O	O
+cast	O	O
+of	O	O
+"	O	O
+Empire	O	O
+"	O	O
+pose	O	O
+for	O	O
+the	O	O
+September	O	O
+issue	O	O
+of	O	O
+Vogue	B-art	B-magazine
+
+IMGID:71889
+Nice	O	O
+frame	O	O
+.	O	O
+Nice	O	O
+shot	O	O
+,	O	O
+too	O	O
+.	O	O
+"	O	O
+@	O	O
+TarHeelPhoto	O	O
+:	O	O
+Huge	O	O
+game	O	O
+winner	O	O
+by	O	O
+Paige	B-person	B-athlete
+to	O	O
+beat	O	O
+Louisville	B-organization	B-sports_team
+
+IMGID:O_2417
+Happy	O	O
+Birthday	O	O
+to	O	O
+Chris	B-person	B-musician
+Brown	I-person	I-musician
+and	O	O
+Adele	B-person	B-musician
+🎊	O	O
+🎈	O	O
+
+IMGID:1155527
+RT	O	O
+@	O	O
+P0TUS	O	O
+:	O	O
+BREAKING	O	O
+:	O	O
+Boehner	B-person	B-politician
+to	O	O
+swear	O	O
+in	O	O
+GOP	B-organization	B-political_party
+Congress	O	O
+Monday	O	O
+.	O	O
+#	O	O
+Scalise	O	O
+
+IMGID:17_06_10098
+Also	O	O
+working	O	O
+in	O	O
+Midtown	B-location	B-park
+?	O	O
+Have	O	O
+a	O	O
+brown	O	O
+bag	O	O
+lunch	O	O
+break	O	O
+with	O	O
+Bossa	O	O
+Nova	O	O
+piano	O	O
+concert	O	O
+in	O	O
+#	O	O
+BryantPark	B-location	B-park
+#	O	O
+NewYorkCity	B-location	B-city
+
+IMGID:594269
+United	O	O
+We	O	O
+Stand	O	O
+!	O	O
+Join	O	O
+@	O	O
+SarahPalinUSA	O	O
+@	O	O
+DineshDSouza	B-person	B-actor
+and	O	O
+Paul	B-person	B-actor
+Rodriguez	I-person	I-actor
+for	O	O
+a	O	O
+PATRIOTIC	B-event	B-festival
+evening	I-event	I-festival
+:	O	O
+
+IMGID:O_3303
+Russell	B-person	B-athlete
+Westbrook	I-person	I-athlete
+will	O	O
+dress	O	O
+like	O	O
+Lizzy	B-person	B-character
+McGuire	I-person	I-character
+then	O	O
+drop	O	O
+a	O	O
+triple	O	O
+double	O	O
+on	O	O
+your	O	O
+whole	O	O
+squad	O	O
+.	O	O
+Dude	O	O
+insane	O	O
+
+IMGID:O_2673
+Billboard	O	O
+:	O	O
+Can	O	O
+newly	O	O
+established	O	O
+rock	O	O
+cred	O	O
+earn	O	O
+a	O	O
+former	O	O
+One	B-organization	B-band
+Direction	I-organization	I-band
+member	O	O
+a	O	O
+Grammy	B-other	B-award
+nod	O	O
+?	O	O
+
+IMGID:859985
+RT	O	O
+@	O	O
+GuardianUS	O	O
+:	O	O
+This	O	O
+is	O	O
+Angelique	B-person	B-musician
+Kidjo	I-person	I-musician
+and	O	O
+this	O	O
+is	O	O
+her	O	O
+Grammy	O	O
+(	O	O
+Photo	O	O
+:	O	O
+FilmMagic	O	O
+)	O	O
+
+IMGID:688806
+RT	O	O
+@	O	O
+SN	B-organization	B-news_agency
+_	I-organization	I-news_agency
+Ohio	I-organization	I-news_agency
+:	O	O
+Every	O	O
+Retweet	O	O
+=	O	O
+1	O	O
+Signature	O	O
+to	O	O
+Bring	O	O
+back	O	O
+NCAA	B-organization	B-sports_league
+Football	O	O
+games	O	O
+https	O	O
+:	O	O
+/	O	O
+/	O	O
+t	O	O
+.	O	O
+co	O	O
+/	O	O
+2WjTQJ7bQX	O	O
+
+IMGID:1814005
+Chilean	O	O
+pride	O	O
+!	O	O
+Gabriela	B-person	B-author
+Mistral	I-person	I-author
+honoured	O	O
+on	O	O
+Google	B-other	B-website
+today	O	O
+.	O	O
+#	O	O
+chile	B-location	B-country
+
+IMGID:1374925
+RT	O	O
+@	O	O
+cathorio	O	O
+:	O	O
+#	O	O
+Tweet4Taiji	O	O
+:	O	O
+Boycott	O	O
+The	O	O
+2020	O	O
+Olympics	B-event	B-sports_event
+In	O	O
+Japan	B-location	B-country
+!	O	O
+!	O	O
+!	O	O
+
+IMGID:62300
+RT	O	O
+@	O	O
+Johnnidijulius	O	O
+:	O	O
+Shirts	O	O
+for	O	O
+tomorrows	O	O
+dual	O	O
+against	O	O
+Missouri	B-organization	B-sports_team
+have	O	O
+Kosta	B-person	B-athlete
+'	O	O
+s	O	O
+back	O	O
+tattoo	O	O
+printed	O	O
+on	O	O
+it	O	O
+!	O	O
+Miss	O	O
+you	O	O
+buddy	O	O
+.	O	O
+
+IMGID:72444
+Incoming	O	O
+Archbishop	B-person	B-politician
+Blase	I-person	I-politician
+Cupich	I-person	I-politician
+begins	O	O
+the	O	O
+celebration	O	O
+.	O	O
+Photos	O	O
+from	O	O
+last	O	O
+night	O	O
+:	O	O
+
+IMGID:488056
+RT	O	O
+@	O	O
+Slate	O	O
+:	O	O
+David	B-person	B-coach
+Blatt	I-person	I-coach
+and	O	O
+Steve	B-person	B-coach
+Kerr	I-person	I-coach
+have	O	O
+turned	O	O
+the	O	O
+NBA	B-organization	B-sports_league
+Finals	O	O
+into	O	O
+a	O	O
+brilliant	O	O
+chess	O	O
+match	O	O
+:	O	O
+
+IMGID:O_4193
+Act	O	O
+as	O	O
+if	O	O
+what	O	O
+you	O	O
+do	O	O
+makes	O	O
+a	O	O
+difference	O	O
+.	O	O
+It	O	O
+does	O	O
+.	O	O
+-	O	O
+William	B-person	B-author
+James	I-person	I-author
+#	O	O
+WednesdayWisdom	O	O
+
+IMGID:14302
+Jardon	B-person	B-person_other
+has	O	O
+all	O	O
+the	O	O
+followers	O	O
+xD	O	O
+@	O	O
+CaptainSparklez	O	O
+
+IMGID:790763
+RT	O	O
+@	O	O
+HTSportsNews	O	O
+:	O	O
+Saina	B-person	B-athlete
+,	O	O
+Srikanth	O	O
+enter	O	O
+#	O	O
+YonexIndiaOpen	O	O
+#	O	O
+badminton	O	O
+semis	O	O
+;	O	O
+Lin	B-person	B-athlete
+Dan	I-person	I-athlete
+stunned	O	O
+
+IMGID:1097672
+A	O	O
+biased	O	O
+picture	O	O
+is	O	O
+worth	O	O
+a	O	O
+thousand	O	O
+biased	O	O
+words	O	O
+.	O	O
+The	O	O
+@	O	O
+AP	O	O
+knows	O	O
+this	O	O
+.	O	O
+Look	O	O
+at	O	O
+how	O	O
+they	O	O
+frame	O	O
+Hillary	B-person	B-politician
+vs	O	O
+Ted	B-person	B-politician
+Cruz	I-person	I-politician
+.	O	O
+
+IMGID:17_01_19123
+MensFitness	O	O
+:	O	O
+6	O	O
+#	O	O
+NBA	O	O
+players	O	O
+have	O	O
+already	O	O
+run	O	O
+the	O	O
+equivalent	O	O
+of	O	O
+3	O	O
+full	O	O
+marathons	O	O
+this	O	O
+season	O	O
+:	O	O
+…	O	O
+
+IMGID:616641
+Doll	O	O
+!	O	O
+Watson	B-person	B-politician
+at	O	O
+war	O	O
+.	O	O
+.	O	O
+.	O	O
+
+IMGID:70723
+#	O	O
+WhiteSox	O	O
+fans	O	O
+ready	O	O
+to	O	O
+see	O	O
+former	O	O
+teammates	O	O
+Mark	B-person	B-athlete
+Buehrle	I-person	I-athlete
+and	O	O
+Chris	B-person	B-athlete
+Sale	I-person	I-athlete
+face	O	O
+off	O	O
+at	O	O
+the	O	O
+Cell	O	O
+.	O	O
+Fastest	O	O
+game	O	O
+ever	O	O
+?	O	O
+
+IMGID:73141
+RT	O	O
+@	O	O
+Cosmopolitan	O	O
+:	O	O
+It	O	O
+'	O	O
+s	O	O
+OK	O	O
+if	O	O
+these	O	O
+sexy	O	O
+shirtless	O	O
+photos	O	O
+of	O	O
+TFIOS	B-art	B-film_and_television_works
+'	O	O
+Ansel	B-person	B-actor
+Elgort	I-person	I-actor
+makes	O	O
+you	O	O
+.	O	O
+.	O	O
+.	O	O
+feel	O	O
+things	O	O
+
+IMGID:988188
+Oh	O	O
+,	O	O
+Siri	B-person	B-character
+.	O	O
+Totoro	B-art	B-film_and_television_works
+is	O	O
+indeed	O	O
+the	O	O
+best	O	O
+.	O	O
+#	O	O
+thingssirisays	O	O
+#	O	O
+totoro	B-art	B-film_and_television_works
+
+IMGID:740700
+Bihar	B-person	B-politician
+Package	O	O
+,	O	O
+Bifurcated	O	O
+and	O	O
+Simplified	O	O
+.	O	O
+.	O	O
+.	O	O
+.	O	O
+For	O	O
+JDU	B-organization	B-political_party
+,	O	O
+Congress	O	O
+knowledge	O	O
+#	O	O
+PackagePolitics	O	O
+
+IMGID:16_05_16_567
+I	O	O
+never	O	O
+feel	O	O
+bad	O	O
+about	O	O
+being	O	O
+good	O	O
+at	O	O
+fantasy	O	O
+baseball	O	O
+.	O	O
+Because	O	O
+I	O	O
+'	O	O
+m	O	O
+really	O	O
+freakin	O	O
+good	O	O
+at	O	O
+fantasy	O	O
+baseball	O	O
+.	O	O
+
+IMGID:1818006
+RT	O	O
+@	O	O
+JuliaAngwin	O	O
+:	O	O
+Was	O	O
+a	O	O
+treat	O	O
+to	O	O
+interview	O	O
+Edward	B-person	B-politician
+Snowden	I-person	I-politician
+today	O	O
+with	O	O
+@	O	O
+normative	O	O
+at	O	O
+#	O	O
+CatoSpyCon	O	O
+
+IMGID:74236
+RT	O	O
+@	O	O
+OU	O	O
+_	O	O
+Football	O	O
+:	O	O
+Baker	B-person	B-athlete
+'	O	O
+s	O	O
+record	O	O
+-	O	O
+breaking	O	O
+opening	O	O
+performance	O	O
+.	O	O
+
+IMGID:734998
+The	O	O
+best	O	O
+way	O	O
+to	O	O
+make	O	O
+your	O	O
+dreams	O	O
+come	O	O
+true	O	O
+is	O	O
+to	O	O
+wake	O	O
+up	O	O
+.	O	O
+Paul	B-person	B-author
+Valery	I-person	I-author
+#	O	O
+amwriting	O	O
+#	O	O
+writing	O	O
+
+IMGID:16_05_03_721
+I	O	O
+quite	O	O
+enjoy	O	O
+the	O	O
+group	O	O
+of	O	O
+ppl	O	O
+playing	O	O
+football	O	O
+on	O	O
+the	O	O
+lawn	O	O
+though	O	O
+:	O	O
+)	O	O
+
+IMGID:O_4862
+19	O	O
+things	O	O
+Taylor	B-person	B-musician
+Swift	I-person	I-musician
+does	O	O
+that	O	O
+no	O	O
+one	O	O
+else	O	O
+could	O	O
+ever	O	O
+get	O	O
+away	O	O
+with	O	O
+
+IMGID:604586
+The	O	O
+Curious	O	O
+Case	O	O
+of	O	O
+Bethany	B-person	B-actor
+Mota	I-person	I-actor
+http	O	O
+:	O	O
+/	O	O
+/	O	O
+t	O	O
+.	O	O
+co	O	O
+/	O	O
+3xvgqYHk2z	O	O
+by	O	O
+@	O	O
+NRMediaGroup	O	O
+
+IMGID:O_200
+Kevin	B-person	B-actor
+Spacey	I-person	I-actor
+Brings	O	O
+Stephen	B-person	B-actor
+Colbert	I-person	I-actor
+And	O	O
+The	O	O
+Closet	O	O
+Jokes	O	O
+To	O	O
+The	O	O
+Tonys	O	O
+
+IMGID:16_05_09_505
+HAPPY	O	O
+BIRTHDAY	O	O
+DAD	O	O
+,	O	O
+tell	O	O
+me	O	O
+how	O	O
+it	O	O
+feels	O	O
+to	O	O
+be	O	O
+legal	O	O
+🔥	O	O
+🔥	O	O
+go	O	O
+kick	O	O
+some	O	O
+baseball	O	O
+a	O	O
+*	O	O
+*	O	O
+in	O	O
+college	O	O
+⚾	O	O
+️	O	O
+🔥	O	O
+@	O	O
+luke_Miller1522	B-person	B-athlete
+
+IMGID:13525
+Haha	O	O
+RT	O	O
+@	O	O
+SportsNation	O	O
+:	O	O
+Here	O	O
+is	O	O
+an	O	O
+exclusive	O	O
+of	O	O
+LeSean	B-person	B-athlete
+McCoy	I-person	I-athlete
+reacting	O	O
+to	O	O
+being	O	O
+traded	O	O
+:	O	O
+
+IMGID:16_05_25_290
+#	O	O
+NFL	B-organization	B-sports_league
+Which	O	O
+'	O	O
+Game	B-art	B-film_and_television_works
+of	I-art	I-film_and_television_works
+Thrones	I-art	I-film_and_television_works
+'	O	O
+character	O	O
+represents	O	O
+the	O	O
+#	O	O
+Dolphins	B-organization	B-sports_team
+?	O	O
+
+IMGID:O_3124
+Donald	B-person	B-politician
+Trump	I-person	I-politician
+says	O	O
+he	O	O
+'	O	O
+ll	O	O
+debate	O	O
+Bernie	B-person	B-politician
+Sanders	I-person	I-politician
+for	O	O
+"	O	O
+women	O	O
+'	O	O
+s	O	O
+health	O	O
+issues	O	O
+"	O	O
+
+IMGID:6492
+I	O	O
+just	O	O
+posted	O	O
+a	O	O
+review	O	O
+of	O	O
+the	O	O
+Smokehouse	B-product	B-brand_name_products
+Burger	I-product	I-brand_name_products
+at	I-product	I-brand_name_products
+Cambridge	I-product	I-brand_name_products
+Common	O	O
+on	O	O
+Tasted	B-organization	B-company
+Menu	I-organization	I-company
+!	O	O
+
+IMGID:71717
+RT	O	O
+@	O	O
+BuzzFeed	O	O
+:	O	O
+Katy	B-person	B-musician
+Perry	I-person	I-musician
+is	O	O
+still	O	O
+floating	O	O
+
+IMGID:73435
+RT	O	O
+@	O	O
+Military	O	O
+_	O	O
+Edge	O	O
+:	O	O
+Egyptian	O	O
+warships	O	O
+shell	O	O
+Houthis	B-organization	B-social_organization
+outside	O	O
+Yemeni	O	O
+city	O	O
+of	O	O
+Aden	B-location	B-city
+:	O	O
+Reports	O	O
+http	O	O
+:	O	O
+/	O	O
+/	O	O
+t	O	O
+.	O	O
+co	O	O
+/	O	O
+eKKx4f4fw8	O	O
+via	O	O
+@	O	O
+ahramonline	O	O
+
+IMGID:697264
+RT	O	O
+@	O	O
+whitehouse	O	O
+:	O	O
+In	O	O
+honor	O	O
+of	O	O
+his	O	O
+birthday	O	O
+,	O	O
+see	O	O
+George	B-person	B-politician
+Washington	I-person	I-politician
+like	O	O
+never	O	O
+before	O	O
+with	O	O
+the	O	O
+@	O	O
+GoogleArt	O	O
+project	O	O
+:	O	O
+http	O	O
+:	O	O
+/	O	O
+/	O	O
+t	O	O
+.	O	O
+co	O	O
+/	O	O
+B5khxny8	O	O
+http	O	O
+.	O	O
+.	O	O
+.	O	O
+
+IMGID:O_1961
+Johnny	B-person	B-actor
+Depp	I-person	I-actor
+apologizes	O	O
+for	O	O
+Donald	B-person	B-politician
+Trump	I-person	I-politician
+assassination	O	O
+joke	O	O
+
+IMGID:O_4107
+Blake	B-person	B-actor
+Lively	I-person	I-actor
+rollin	O	O
+into	O	O
+the	O	O
+Met	B-event	B-festival
+Ball	I-event	I-festival
+like	O	O
+a	O	O
+musical	O	O
+theatre	O	O
+major	O	O
+who	O	O
+just	O	O
+found	O	O
+out	O	O
+the	O	O
+spring	O	O
+mainstage	O	O
+is	O	O
+Evita	O	O
+
+IMGID:1004719
+Add	O	O
+-	O	O
+On	O	O
+sales	O	O
+for	O	O
+your	O	O
+Optical	O	O
+Store	O	O
+,	O	O
+new	O	O
+Kodak	B-product	B-product_other
+Lens	I-product	I-product_other
+Folding	I-product	I-product_other
+Reading	I-product	I-product_other
+Glasses	I-product	I-product_other
+
+IMGID:407650
+RT	O	O
+@	O	O
+HuffPostBiz	O	O
+:	O	O
+This	O	O
+wins	O	O
+.	O	O
+RT	O	O
+@	O	O
+evankirstel	O	O
+:	O	O
+BREAKING	O	O
+:	O	O
+Yahoo	B-organization	B-company
+buys	O	O
+ViewMaster	B-organization	B-company
+
+IMGID:O_447
+Sergio	B-person	B-athlete
+Ramos	I-person	I-athlete
+:	O	O
+the	O	O
+#	O	O
+UCLfinal	O	O
+man	O	O
+of	O	O
+the	O	O
+match	O	O
+👏	O	O
+👏	O	O
+👏	O	O
+
+IMGID:64051
+RT	O	O
+@	O	O
+MFosmoe	O	O
+:	O	O
+Interactive	O	O
+light	O	O
+sculpture	O	O
+planned	O	O
+for	O	O
+St	B-location	B-road
+.	I-location	I-road
+Joe	I-location	I-road
+River	I-location	I-road
+in	O	O
+#	O	O
+SouthBend	B-location	B-city
+.	O	O
+@	O	O
+ErinBlasko	O	O
+@	O	O
+SBTribune	O	O
+:	O	O
+
+IMGID:64156
+RT	O	O
+@	O	O
+assassinscreed	O	O
+:	O	O
+Lay	O	O
+aboard	O	O
+lads	O	O
+!	O	O
+Today	O	O
+we	O	O
+celebrate	O	O
+the	O	O
+birth	O	O
+of	O	O
+pirate	O	O
+captain	O	O
+and	O	O
+Assassin	O	O
+,	O	O
+Edward	B-person	B-character
+James	I-person	I-character
+Kenway	I-person	I-character
+!	O	O
+#	O	O
+AssassinsCreed	O	O
+http	O	O
+…	O	O
+
+IMGID:O_1440
+Emma	B-person	B-actor
+Roberts	I-person	I-actor
+.	O	O
+Arrested	O	O
+for	O	O
+domestic	O	O
+violence	O	O
+against	O	O
+Evan	B-person	B-actor
+Peters	I-person	I-actor
+.	O	O
+
+IMGID:155680
+*	O	O
+"	O	O
+Stay	O	O
+#	O	O
+true	O	O
+to	O	O
+what	O	O
+is	O	O
+#	O	O
+right	O	O
+,	O	O
+and	O	O
+God	O	O
+will	O	O
+save	O	O
+YOU	O	O
+&	O	O
+amp	O	O
+;	O	O
+THOSE	O	O
+who	O	O
+hear	O	O
+you	O	O
+.	O	O
+"	O	O
+1	O	O
+Timothy	B-person	B-author
+4	O	O
+:	O	O
+16	O	O
+b	O	O
+NLT1	O	O
+
+IMGID:74090
+GOP	B-organization	B-political_party
+gov	O	O
+candidate	O	O
+Kirk	B-person	B-politician
+Dillard	I-person	I-politician
+greets	O	O
+supporters	O	O
+as	O	O
+the	O	O
+race	O	O
+tightens	O	O
+on	O	O
+primary	O	O
+election	O	O
+night	O	O
+
+IMGID:918692
+RT	O	O
+@	O	O
+misraashutosh	O	O
+:	O	O
+Extremely	O	O
+neat	O	O
+and	O	O
+clean	O	O
+New	B-building	B-building_other
+Delhi	I-building	I-building_other
+Railway	I-building	I-building_other
+station	I-building	I-building_other
+.	O	O
+Thanks	O	O
+to	O	O
+@	O	O
+sureshpprabhu	O	O
+
+IMGID:74866
+When	O	O
+u	O	O
+too	O	O
+cheap	O	O
+for	O	O
+Disney	B-organization	B-company
+
+IMGID:444201
+RT	O	O
+@	O	O
+rtyourcrushes	O	O
+:	O	O
+Zayn	B-person	B-musician
+Malik	I-person	I-musician
+
+IMGID:O_222
+Chris	B-person	B-athlete
+Paul	I-person	I-athlete
+'	O	O
+s	O	O
+phone	O	O
+has	O	O
+been	O	O
+blowing	O	O
+up	O	O
+since	O	O
+news	O	O
+broke	O	O
+he	O	O
+was	O	O
+being	O	O
+traded	O	O
+to	O	O
+the	O	O
+Rockets	B-organization	B-sports_team
+:	O	O
+
+IMGID:16_05_15_332
+If	O	O
+Trump	B-person	B-politician
+held	O	O
+a	O	O
+concert	O	O
+,	O	O
+who	O	O
+might	O	O
+perform	O	O
+?	O	O
+
+IMGID:74915
+RT	O	O
+@	O	O
+SportsCenter	O	O
+:	O	O
+BREAKING	O	O
+:	O	O
+49ers	B-organization	B-sports_team
+have	O	O
+released	O	O
+linebacker	O	O
+Aldon	B-person	B-athlete
+Smith	I-person	I-athlete
+.	O	O
+
+IMGID:68069
+RT	O	O
+@	O	O
+msnbc	O	O
+:	O	O
+US	B-organization	B-organization_other
+Navy	I-organization	I-organization_other
+fires	O	O
+officer	O	O
+in	O	O
+charge	O	O
+of	O	O
+the	O	O
+Guantanamo	B-location	B-location_other
+Bay	I-location	I-location_other
+naval	O	O
+station	O	O
+amid	O	O
+murder	O	O
+investigation	O	O
+:	O	O
+
+IMGID:16_05_29_25
+#	O	O
+NFL	B-organization	B-sports_league
+#	O	O
+Bengals	B-organization	B-sports_team
+Weight	O	O
+Loss	O	O
+for	O	O
+Women	O	O
+–	O	O
+Most	O	O
+Overlooked	O	O
+Obstacles	O	O
+…	O	O
+
+IMGID:O_2848
+RT	O	O
+if	O	O
+you	O	O
+wish	O	O
+you	O	O
+were	O	O
+Blake	B-person	B-actor
+Lively	I-person	I-actor
+.	O	O
+
+IMGID:O_651
+Heat	B-organization	B-sports_team
+reportedly	O	O
+expect	O	O
+Chris	B-person	B-athlete
+Bosh	I-person	I-athlete
+to	O	O
+return	O	O
+next	O	O
+season	O	O
+after	O	O
+dealing	O	O
+with	O	O
+blood	O	O
+clots	O	O
+
+IMGID:16_05_12_660
+Senior	O	O
+Night	O	O
+for	O	O
+Varsity	O	O
+Baseball	O	O
+.	O	O
+Congrats	O	O
+to	O	O
+class	O	O
+of	O	O
+2016	O	O
+members	O	O
+and	O	O
+thanks	O	O
+for	O	O
+your	O	O
+contributions	O	O
+to	O	O
+our	O	O
+team	O	O
+!	O	O
+
+IMGID:17_06_14267
+Yee	B-event	B-festival
+Peng	I-event	I-festival
+Lanna	I-event	I-festival
+,	O	O
+a	O	O
+lantern	O	O
+festival	O	O
+in	O	O
+Chiang	B-location	B-city
+Mai	I-location	I-city
+,	O	O
+Thailand	B-location	B-country
+|	O	O
+Photo	O	O
+by	O	O
+aijohsuke	B-person	B-artist
+
+IMGID:565004
+RT	O	O
+@	O	O
+BleacherReport	O	O
+:	O	O
+Leah	B-person	B-athlete
+Still	I-person	I-athlete
+watches	O	O
+her	O	O
+father	O	O
+play	O	O
+live	O	O
+,	O	O
+all	O	O
+bundled	O	O
+up	O	O
+#	O	O
+LeahStrong	O	O
+
+IMGID:O_984
+❤	O	O
+❤	O	O
+#	O	O
+JustinBieber	B-person	B-musician
+#	O	O
+Buzz	O	O
+justin	B-person	B-musician
+bieber	I-person	I-musician
+#	O	O
+Perfume	O	O
+the	O	O
+key	O	O
+#	O	O
+Bieber	B-person	B-musician
+#	O	O
+Deals	O	O
+
+IMGID:16_05_08_551
+Congratulations	O	O
+Leipzig	B-organization	B-sports_team
+.	O	O
+RBL	B-organization	B-sports_team
+win	O	O
+promotion	O	O
+to	O	O
+the	O	O
+Bundesliga	B-organization	B-sports_league
+for	O	O
+the	O	O
+first	O	O
+time	O	O
+ever	O	O
+.	O	O
+
+IMGID:537315
+RT	O	O
+@	O	O
+zefirotorna	O	O
+:	O	O
+This	O	O
+is	O	O
+what	O	O
+scared	O	O
+Cruz	B-person	B-athlete
+and	O	O
+made	O	O
+him	O	O
+go	O	O
+first	O	O
+.	O	O
+#	O	O
+YouCruzYouLose	O	O
+
+IMGID:16_05_06_106
+I	O	O
+hope	O	O
+there	O	O
+'	O	O
+s	O	O
+a	O	O
+standees	O	O
+like	O	O
+this	O	O
+for	O	O
+the	O	O
+upcoming	O	O
+concert	O	O
+of	O	O
+bts	O	O
+here	O	O
+in	O	O
+ph	O	O
+
+IMGID:16_05_16_790
+Emma	B-person	B-musician
+Nyra	I-person	I-musician
+’	O	O
+s	O	O
+Beautiful	O	O
+Look	O	O
+To	O	O
+Kiss	B-person	B-musician
+Daniel	I-person	I-musician
+’	O	O
+s	O	O
+Album	O	O
+Launch	O	O
+Concert	O	O
+(	O	O
+Photos	O	O
+)	O	O
+
+IMGID:1063216
+RT	O	O
+New	O	O
+:	O	O
+Surreal	O	O
+Fluidly	O	O
+-	O	O
+Organic	O	O
+Geometry	O	O
+by	O	O
+David	B-person	B-artist
+Brodeur	I-person	I-artist
+
+IMGID:O_933
+We	O	O
+need	O	O
+men	O	O
+who	O	O
+can	O	O
+dream	O	O
+of	O	O
+things	O	O
+that	O	O
+never	O	O
+were	O	O
+.	O	O
+{	O	O
+John	B-person	B-politician
+F	I-person	I-politician
+.	I-person	I-politician
+Kennedy	I-person	I-politician
+}	O	O
+#	O	O
+quotes	O	O
+
+IMGID:620397
+RT	O	O
+@	O	O
+verge	O	O
+:	O	O
+Asus	B-product	B-brand_name_products
+ZenWatch	I-product	I-brand_name_products
+review	O	O
+
+IMGID:118281
+RT	O	O
+@	O	O
+worksnash	O	O
+:	O	O
+Nash	B-person	B-actor
+and	O	O
+Cam	B-person	B-actor
+are	O	O
+probably	O	O
+the	O	O
+biggest	O	O
+dorks	O	O
+out	O	O
+there	O	O
+I	O	O
+LOVE	O	O
+IT	O	O
+
+IMGID:O_1108
+Exclusive	O	O
+!	O	O
+#	O	O
+ABCBachelorette	O	O
+Rachel	B-person	B-actor
+Lindsay	I-person	I-actor
+dated	O	O
+NBA	B-organization	B-sports_league
+pro	O	O
+Kevin	B-person	B-athlete
+Durant	I-person	I-athlete
+:	O	O
+
+IMGID:O_107
+Guys	O	O
+,	O	O
+Niall	B-person	B-musician
+Horan	I-person	I-musician
+is	O	O
+just	O	O
+as	O	O
+excited	O	O
+to	O	O
+see	O	O
+Harry	B-person	B-musician
+Styles	I-person	I-musician
+in	O	O
+#	O	O
+Dunkirk	B-art	B-film_and_television_works
+as	O	O
+you	O	O
+are	O	O
+:	O	O
+
+IMGID:16_05_04_679
+Congrats	O	O
+to	O	O
+the	O	O
+ELCA	B-organization	B-sports_team
+Lady	I-organization	I-sports_team
+Soccer	O	O
+team	O	O
+for	O	O
+advancing	O	O
+to	O	O
+Elite	B-other	B-award
+8	I-other	I-award
+by	O	O
+defeating	O	O
+Aquinas	B-organization	B-sports_team
+4	O	O
+-	O	O
+1	O	O
+.	O	O
+
+IMGID:94913
+RT	O	O
+@	O	O
+bestside	O	O
+Im	O	O
+not	O	O
+a	O	O
+big	O	O
+Drake	B-person	B-artist
+fan	O	O
+.	O	O
+But	O	O
+yet	O	O
+I	O	O
+am	O	O
+a	O	O
+fan	O	O
+of	O	O
+this	O	O
+.	O	O
+
+IMGID:442750
+Haloti	B-person	B-athlete
+Ngata	I-person	I-athlete
+with	O	O
+Jim	B-person	B-athlete
+Csldwell	I-person	I-athlete
+
+IMGID:1982840
+Thank	O	O
+you	O	O
+to	O	O
+our	O	O
+team	O	O
+members	O	O
+,	O	O
+family	O	O
+,	O	O
+&	O	O
+amp	O	O
+;	O	O
+friends	O	O
+who	O	O
+cleaned	O	O
+up	O	O
+Smith	B-location	B-park
+Park	I-location	I-park
+in	O	O
+Bloomington	B-location	B-city
+over	O	O
+the	O	O
+weekend	O	O
+!	O	O
+
+IMGID:739268
+RT	O	O
+@	O	O
+Kamidiox	O	O
+:	O	O
+#	O	O
+inktober	O	O
+with	O	O
+#	O	O
+SPN	B-art	B-film_and_television_works
+season	O	O
+10	O	O
+spoilers	O	O
+!	O	O
+
+IMGID:O_1329
+JUST	O	O
+IN	O	O
+:	O	O
+Statement	O	O
+from	O	O
+President	O	O
+Barack	B-person	B-politician
+Obama	I-person	I-politician
+on	O	O
+the	O	O
+Paris	B-location	B-city
+Climate	O	O
+Accord	O	O
+:	O	O
+
+IMGID:1359058
+RT	O	O
+@	O	O
+LearnSomethlng	O	O
+:	O	O
+This	O	O
+is	O	O
+what	O	O
+the	O	O
+sunset	O	O
+looked	O	O
+like	O	O
+over	O	O
+Lake	B-location	B-location_other
+Michigan	I-location	I-location_other
+on	O	O
+August	O	O
+7th	O	O
+.	O	O
+
+IMGID:72448
+RT	O	O
+@	O	O
+BuzzFeed	O	O
+:	O	O
+Ed	B-person	B-musician
+Sheeran	I-person	I-musician
+'	O	O
+s	O	O
+Face	O	O
+Was	O	O
+The	O	O
+Best	O	O
+Thing	O	O
+At	O	O
+The	B-event	B-festival
+Victoria	I-event	I-festival
+'	I-event	I-festival
+s	I-event	I-festival
+Secret	I-event	I-festival
+Show	I-event	I-festival
+
+IMGID:2036738
+RT	O	O
+@	O	O
+malaysiakini	O	O
+:	O	O
+Azmin	B-person	B-politician
+Ali	I-person	I-politician
+to	O	O
+replace	O	O
+Khalid	B-person	B-politician
+Ibrahim	I-person	I-politician
+
+IMGID:116973
+RT	O	O
+@	O	O
+Gizmodo	O	O
+:	O	O
+This	O	O
+Bluetooth	B-product	B-product_other
+Star	I-product	I-product_other
+Trek	I-product	I-product_other
+communicator	O	O
+is	O	O
+bad	O	O
+news	O	O
+for	O	O
+my	O	O
+friends	O	O
+:	O	O
+
+IMGID:73113
+And	O	O
+Alshon	B-person	B-athlete
+Jeffrey	I-person	I-athlete
+bobbles	O	O
+a	O	O
+potential	O	O
+TD	O	O
+ball	O	O
+in	O	O
+the	O	O
+2nd	O	O
+q	O	O
+.	O	O
+#	O	O
+bears	O	O
+#	O	O
+packers	O	O
+
+IMGID:1116776
+Of	O	O
+course	O	O
+Tesla	B-organization	B-company
+has	O	O
+a	O	O
+solar	O	O
+camera	O	O
+/	O	O
+battery	O	O
+to	O	O
+document	O	O
+their	O	O
+Gigafatory	B-product	B-product_other
+buildout	O	O
+[	O	O
+Video	O	O
+]	O	O
+
+IMGID:72747
+RT	O	O
+@	O	O
+kon	O	O
+_	O	O
+marine	O	O
+:	O	O
+Zr	O	O
+.	O	O
+Ms	O	O
+.	O	O
+Van	B-product	B-product_other
+Amstel	I-product	I-product_other
+gaat	O	O
+voor	O	O
+4	O	O
+maanden	O	O
+op	O	O
+drugsjacht	O	O
+in	O	O
+Caribisch	B-location	B-park
+Gebied	I-location	I-park
+.	O	O
+Uitgezwaaid	O	O
+door	O	O
+vrienden	O	O
+en	O	O
+familie	O	O
+
+IMGID:1990808
+Celebrity	O	O
+photography	O	O
+by	O	O
+Jana	B-person	B-artist
+Cruder	I-person	I-artist
+
+IMGID:90785
+RT	O	O
+@	O	O
+YahooSports	O	O
+:	O	O
+The	B-building	B-sports_facility
+Hubert	I-building	I-sports_facility
+H	I-building	I-sports_facility
+.	I-building	I-sports_facility
+Humphrey	I-building	I-sports_facility
+Metrodome	I-building	I-sports_facility
+roof	O	O
+(	O	O
+1981	O	O
+-	O	O
+2014	O	O
+)	O	O
+deflates	O	O
+one	O	O
+final	O	O
+time	O	O
+.	O	O
+
+IMGID:48571
+@	O	O
+TheBigIftar	O	O
+event	O	O
+at	O	O
+Finchley	B-location	B-park
+about	O	O
+to	O	O
+start	O	O
+.	O	O
+Room	O	O
+already	O	O
+well	O	O
+packed	O	O
+.	O	O
+
+IMGID:41926
+Multiple	O	O
+flights	O	O
+from	O	O
+Europe	B-location	B-continent
+including	O	O
+1	O	O
+that	O	O
+landed	O	O
+at	O	O
+Boston	B-location	B-location_other
+Logan	I-location	I-location_other
+met	O	O
+by	O	O
+FBI	B-organization	B-government_agency
+b	O	O
+/	O	O
+c	O	O
+"	O	O
+hoax	O	O
+"	O	O
+threat	O	O
+(	O	O
+pic	O	O
+from	O	O
+JFK	O	O
+)	O	O
+
+IMGID:16_05_27_331
+This	O	O
+Summer	O	O
+'	O	O
+s	O	O
+top	O	O
+3	O	O
+countryside	O	O
+festivals	O	O
+in	O	O
+the	O	O
+UK	B-location	B-country
+
+IMGID:16_05_07_376
+Congrats	O	O
+to	O	O
+Men	O	O
+'	O	O
+s	O	O
+2016	O	O
+Finish	O	O
+Line	O	O
+500	O	O
+Festival	O	O
+5	O	O
+K	O	O
+winner	O	O
+,	O	O
+Jackson	B-person	B-athlete
+Swisher	I-person	I-athlete
+of	O	O
+Danville	B-organization	B-sports_team
+!	O	O
+His	O	O
+time	O	O
+-	O	O
+16	O	O
+:	O	O
+59	O	O
+.	O	O
+#	O	O
+IndyMini	O	O
+
+IMGID:16_05_14_486
+Our	O	O
+first	O	O
+annual	O	O
+beer	O	O
+festival	O	O
+.	O	O
+Whitsun	B-event	B-festival
+bank	I-event	I-festival
+holiday	I-event	I-festival
+weekend	O	O
+.	O	O
+#	O	O
+beerfestival	O	O
+#	O	O
+epsom	O	O
+#	O	O
+surreypub	O	O
+#	O	O
+beer	O	O
+#	O	O
+realale	O	O
+#	O	O
+ale	O	O
+
+IMGID:16_05_23_589
+Florence	B-organization	B-band
+and	I-organization	I-band
+the	I-organization	I-band
+Machine	I-organization	I-band
+surprises	O	O
+ill	O	O
+teen	O	O
+with	O	O
+private	O	O
+concert	O	O
+
+IMGID:790683
+VOTE	O	O
+TRUMP	O	O
+/	O	O
+FUCK	O	O
+Ted	B-person	B-politician
+Cruz	I-person	I-politician
+tries	O	O
+to	O	O
+pull	O	O
+Trump	B-person	B-politician
+card	O	O
+on	O	O
+Senate	B-organization	B-government_agency
+floor	O	O
+https	O	O
+:	O	O
+/	O	O
+/	O	O
+t	O	O
+.	O	O
+co	O	O
+/	O	O
+DMiXRZC9Qm	O	O
+
+IMGID:118610
+RT	O	O
+@	O	O
+espn	O	O
+:	O	O
+The	O	O
+Red	B-organization	B-sports_team
+Sox	I-organization	I-sports_team
+were	O	O
+a	O	O
+unified	O	O
+team	O	O
+.	O	O
+Proof	O	O
+is	O	O
+in	O	O
+this	O	O
+image	O	O
+of	O	O
+the	O	O
+night	O	O
+(	O	O
+via	O	O
+@	O	O
+BostonHerald	O	O
+)	O	O
+-	O	O
+&	O	O
+gt	O	O
+;	O	O
+
+IMGID:16_05_08_44
+No	O	O
+idea	O	O
+what	O	O
+the	O	O
+rest	O	O
+of	O	O
+this	O	O
+baseball	O	O
+season	O	O
+will	O	O
+be	O	O
+like	O	O
+for	O	O
+#	O	O
+Cubs	B-organization	B-sports_team
+.	O	O
+But	O	O
+holy	O	O
+crap	O	O
+.	O	O
+
+IMGID:1890794
+RT	O	O
+@	O	O
+ESPNFC	O	O
+:	O	O
+RT	O	O
+.	O	O
+@	O	O
+Arsenal	O	O
+Morning	O	O
+all	O	O
+and	O	O
+happy	O	O
+birthday	O	O
+to	O	O
+Danny	B-person	B-athlete
+Welbeck	I-person	I-athlete
+who	O	O
+turns	O	O
+24	O	O
+today	O	O
+!	O	O
+
+IMGID:1046679
+RT	O	O
+@	O	O
+CNBCnow	O	O
+:	O	O
+BREAKING	O	O
+:	O	O
+Verizon	B-organization	B-company
+to	O	O
+buy	O	O
+AOL	B-product	B-brand_name_products
+for	O	O
+$	O	O
+4	O	O
+.	O	O
+4	O	O
+billion	O	O
+
+IMGID:17_06_13233
+Trump	B-person	B-politician
+'	O	O
+s	O	O
+Conflicts	O	O
+of	O	O
+Interest	O	O
+in	O	O
+Russia	B-location	B-country
+
+IMGID:116468
+The	O	O
+top	O	O
+5	O	O
+luxury	O	O
+resorts	O	O
+on	O	O
+the	O	O
+blissful	O	O
+island	O	O
+of	O	O
+Bora	B-location	B-location_other
+Bora	I-location	I-location_other
+http	O	O
+:	O	O
+/	O	O
+/	O	O
+t	O	O
+.	O	O
+co	O	O
+/	O	O
+v0evea8OSG	O	O
+RT	O	O
+@	O	O
+luxurylaunches	O	O
+
+IMGID:17_06_1762
+#	O	O
+OneLoveMachester	B-event	B-festival
+loved	O	O
+the	O	O
+concert	O	O
+💖	O	O
+💖	O	O
+.	O	O
+@	O	O
+ArianaGrande	B-person	B-musician
+
+IMGID:1061350
+RT	O	O
+@	O	O
+CreativeJJB	O	O
+:	O	O
+@	O	O
+kelsbethx	O	O
+helps	O	O
+launch	O	O
+#	O	O
+stoptober	B-event	B-festival
+at	O	O
+Trafalgar	B-location	B-location_other
+Square	I-location	I-location_other
+with	O	O
+CMO	O	O
+,	O	O
+@	O	O
+ColemanCoaching	O	O
+@	O	O
+profkevinfenton	O	O
+
+IMGID:O_176
+Russell	B-person	B-athlete
+Westbrook	I-person	I-athlete
+caps	O	O
+off	O	O
+a	O	O
+historic	O	O
+season	O	O
+with	O	O
+his	O	O
+first	O	O
+MVP	O	O
+trophy	O	O
+.	O	O
+
+IMGID:599209
+@	O	O
+SenBlumenthal	O	O
+gets	O	O
+a	O	O
+warm	O	O
+welcome	O	O
+at	O	O
+the	O	O
+inauguration	O	O
+of	O	O
+Toni	B-person	B-politician
+Harp	I-person	I-politician
+
+IMGID:17_06_1994
+Cap	O	O
+expert	O	O
+expects	O	O
+Derek	B-person	B-athlete
+Carr	I-person	I-athlete
+to	O	O
+become	O	O
+NFL	B-organization	B-sports_league
+’	O	O
+s	O	O
+highest	O	O
+paid	O	O
+player	O	O
+,	O	O
+Khalil	B-person	B-athlete
+Mack	I-person	I-athlete
+highest	O	O
+…	O	O
+
+IMGID:17_06_3652
+Tiger	B-person	B-actor
+Shroff	I-person	I-actor
+practises	O	O
+for	O	O
+MJ	B-person	B-musician
+tribute	O	O
+concert	O	O
+in	O	O
+Pune	B-location	B-city
+
+IMGID:17_06_13823
+Arsenal	B-organization	B-sports_team
+star	O	O
+Alexis	B-person	B-athlete
+Sanchez	I-person	I-athlete
+swaps	O	O
+football	O	O
+for	O	O
+boxing	O	O
+
+IMGID:13847
+@	O	O
+OMGitsfirefoxx	O	O
+going	O	O
+through	O	O
+old	O	O
+photos	O	O
+on	O	O
+my	O	O
+iPod	B-product	B-product_other
+.	O	O
+Why	O	O
+is	O	O
+Tuckers	B-person	B-person_other
+face	O	O
+so	O	O
+easily	O	O
+a	O	O
+meme	O	O
+?	O	O
+
+IMGID:50693
+RT	O	O
+@	O	O
+AccessVikings	O	O
+:	O	O
+Taylor	B-person	B-athlete
+Heinicke	I-person	I-athlete
+pushing	O	O
+for	O	O
+third	O	O
+quarterback	O	O
+spot	O	O
+with	O	O
+Vikings	B-organization	B-sports_team
+
+IMGID:464231
+RT	O	O
+@	O	O
+9GAG	O	O
+:	O	O
+Kanye	B-person	B-musician
+is	O	O
+so	O	O
+close	O	O
+to	O	O
+doing	O	O
+it	O	O
+again	O	O
+#	O	O
+Grammys	B-other	B-award
+
+IMGID:17_06_1257
+.	O	O
+@	O	O
+BeaverBaseball	B-organization	B-sports_team
+set	O	O
+to	O	O
+host	O	O
+Vanderbilt	B-organization	B-sports_team
+in	O	O
+Corvallis	B-organization	B-sports_league
+Super	I-organization	I-sports_league
+Regional	I-organization	I-sports_league
+
+IMGID:17_06_1237
+Some	O	O
+love	O	O
+from	O	O
+@	O	O
+ETSUFootball	B-organization	B-sports_team
+.	O	O
+Looking	O	O
+forward	O	O
+to	O	O
+the	O	O
+visit	O	O
+.	O	O
+#	O	O
+L18htemup	O	O
+#	O	O
+NEG	O	O
+
+IMGID:16_05_01_627
+Earlier	O	O
+at	O	O
+the	O	O
+Parade	O	O
+with	O	O
+my	O	O
+Niece	O	O
+,	O	O
+we	O	O
+look	O	O
+like	O	O
+we	O	O
+'	O	O
+re	O	O
+ready	O	O
+for	O	O
+#	O	O
+StarWars	O	O
+lol	O	O
+
+IMGID:74709
+RT	O	O
+@	O	O
+Mamba	O	O
+_	O	O
+Insider	O	O
+:	O	O
+Every	O	O
+Kobe	B-person	B-athlete
+Bryant	I-person	I-athlete
+game	O	O
+winner	O	O
+🏀	O	O
+💯	O	O
+
+IMGID:37460
+RT	O	O
+@	O	O
+JeopardySports	O	O
+:	O	O
+"	O	O
+Who	O	O
+is	O	O
+:	O	O
+Dr	O	O
+.	O	O
+Seuss	B-person	B-person_other
+?	O	O
+"	O	O
+#	O	O
+JeopardySports	O	O
+
+IMGID:16_05_25_153
+Lee	O	O
+out	O	O
+of	O	O
+the	O	O
+NBA	B-organization	B-sports_league
+,	O	O
+moves	O	O
+to	O	O
+Kentucky	B-location	B-state
+
+IMGID:90050
+RT	O	O
+@	O	O
+FootyAccums	O	O
+:	O	O
+1	O	O
+-	O	O
+0	O	O
+TO	O	O
+BOBBY	B-person	B-athlete
+HUTH	I-person	I-athlete
+!	O	O
+!	O	O
+!	O	O
+
+IMGID:139778
+Thx	O	O
+Heidelbergers	B-organization	B-company
+for	O	O
+organizing	O	O
+#	O	O
+TNAM2014	O	O
+Classiest	O	O
+TNAM	B-event	B-festival
+yet	O	O
+MT	O	O
+@	O	O
+AlexisMaizel	O	O
+:	O	O
+The	O	O
+#	O	O
+TNAM2014	O	O
+crowd	O	O
+at	O	O
+Frauenbad	B-building	B-entertainment_place
+
+IMGID:O_4816
+Wow	O	O
+!	O	O
+This	O	O
+is	O	O
+big	O	O
+.	O	O
+David	B-person	B-politician
+Cameron	I-person	I-politician
+has	O	O
+just	O	O
+been	O	O
+personally	O	O
+implicated	O	O
+in	O	O
+Tory	O	O
+Election	O	O
+Scandal	O	O
+
+IMGID:49376
+RT	O	O
+@	O	O
+nytimes	O	O
+:	O	O
+From	O	O
+2014	O	O
+:	O	O
+How	O	O
+the	O	O
+NYT	B-organization	B-news_agency
+covered	O	O
+Tiananmen	B-building	B-building_other
+Square	I-building	I-building_other
+in	O	O
+1989	O	O
+
+IMGID:802994
+RT	O	O
+@	O	O
+northcoastevent	O	O
+:	O	O
+#	O	O
+Aurora	O	O
+off	O	O
+the	O	O
+North	B-location	B-location_other
+Coast	I-location	I-location_other
+early	O	O
+this	O	O
+morning	O	O
+Copyright	O	O
+Joe	B-person	B-artist
+Beattie	I-person	I-artist
+@	O	O
+DiscoverIreland	O	O
+@	O	O
+DiscoverNI	O	O
+#	O	O
+NorthernLights	O	O
+h	O	O
+.	O	O
+.	O	O
+.	O	O
+
+IMGID:72278
+The	O	O
+Trib	O	O
+sent	O	O
+@	O	O
+stacystclair	O	O
+and	O	O
+I	O	O
+to	O	O
+Sochi	B-location	B-city
+,	O	O
+but	O	O
+only	O	O
+one	O	O
+of	O	O
+us	O	O
+made	O	O
+WSJ	B-art	B-magazine
+'	O	O
+s	O	O
+Year	O	O
+in	O	O
+Photos	O	O
+
+IMGID:17_06_7824
+I	O	O
+have	O	O
+just	O	O
+bought	O	O
+Jeremy	B-person	B-athlete
+Pied	I-person	I-athlete
+in	O	O
+#	O	O
+dreamleaguesoccer	B-product	B-game
+
+IMGID:119370
+Portugal	B-organization	B-sports_team
+1	O	O
+-	O	O
+0	O	O
+Serbia	B-organization	B-sports_team
+
+IMGID:O_1582
+One	O	O
+thing	O	O
+we	O	O
+know	O	O
+,	O	O
+Taylor	B-person	B-musician
+Swift	I-person	I-musician
+'	O	O
+s	O	O
+new	O	O
+single	O	O
+/	O	O
+album	O	O
+has	O	O
+something	O	O
+to	O	O
+do	O	O
+with	O	O
+TIME	O	O
+.	O	O
+#	O	O
+TS6	O	O
+
+IMGID:1809178
+RT	O	O
+@	O	O
+eevriviades	O	O
+:	O	O
+The	O	O
+Parthenon	B-location	B-park
+through	O	O
+time	O	O
+:	O	O
+video	O	O
+by	O	O
+Costa	O	O
+-	O	O
+Gavras	O	O
+
+IMGID:585026
+With	O	O
+winter	O	O
+around	O	O
+the	O	O
+corner	O	O
+,	O	O
+why	O	O
+not	O	O
+find	O	O
+a	O	O
+cuddle	O	O
+buddy	O	O
+on	O	O
+Datingbuzz	B-other	B-website
+?	O	O
+
+IMGID:16_05_05_612
+Thanks	O	O
+for	O	O
+being	O	O
+my	O	O
+hottest	O	O
+concert	O	O
+buddy	O	O
+😘	O	O
+
+IMGID:35171
+RT	O	O
+@	O	O
+Bruegel	O	O
+_	O	O
+org	O	O
+:	O	O
+Which	O	O
+country	O	O
+holds	O	O
+the	O	O
+highest	O	O
+number	O	O
+of	O	O
+top	O	O
+posts	O	O
+in	O	O
+the	O	O
+EU	B-organization	B-social_organization
+institutions	O	O
+?	O	O
+
+IMGID:O_4696
+Stephen	B-person	B-actor
+Colbert	I-person	I-actor
+announces	O	O
+a	O	O
+week	O	O
+of	O	O
+'	O	O
+Late	B-art	B-film_and_television_works
+Show	I-art	I-film_and_television_works
+'	O	O
+episodes	O	O
+from	O	O
+Russia	B-location	B-country
+
+IMGID:179527
+RT	O	O
+@	O	O
+mkasanm	O	O
+:	O	O
+Microsoft	B-organization	B-company
+Removes	O	O
+ActiveX	B-product	B-software
+In	O	O
+Windows	B-product	B-software
+10	I-product	I-software
+Default	O	O
+Browser	O	O
+Edge	O	O
+
+IMGID:65024
+RT	O	O
+@	O	O
+mjesusgz	O	O
+:	O	O
+6	O	O
+AM	O	O
+from	O	O
+my	O	O
+kayak	O	O
+by	O	O
+Jorn	B-person	B-artist
+Allan	I-person	I-artist
+Pedersen	I-person	I-artist
+-	O	O
+#	O	O
+photo	O	O
+#	O	O
+art	O	O
+#	O	O
+artwit	O	O
+#	O	O
+twitart	O	O
+#	O	O
+nature	O	O
+
+IMGID:17_06_11646
+Former	O	O
+NBA	B-organization	B-sports_league
+player	O	O
+Dennis	B-person	B-athlete
+Rodman	I-person	I-athlete
+arrives	O	O
+in	O	O
+North	B-location	B-country
+Korea	I-location	I-country
+
+IMGID:17_06_15659
+2017	O	O
+NHL	B-organization	B-sports_league
+MOCK	O	O
+DRAFT	O	O
+:	O	O
+Calgary	B-organization	B-sports_team
+takes	O	O
+big	O	O
+,	O	O
+physical	O	O
+center	O	O
+,	O	O
+Michael	B-person	B-athlete
+Rasmussen	I-person	I-athlete
+
+IMGID:16_05_15_51
+Cool	O	O
+sky	O	O
+tonight	O	O
+at	O	O
+soccer	O	O
+.	O	O
+And	O	O
+so	O	O
+very	O	O
+cold	O	O
+.	O	O
+Brrrrrrrr	O	O
+💨	O	O
+🌬	O	O
+⚽	O	O
+️	O	O
+🌬	O	O
+💨	O	O
+⚽	O	O
+️	O	O
+
+IMGID:16_05_11_593
+SW4	B-event	B-festival
+Festival	I-event	I-festival
+only	O	O
+has	O	O
+a	O	O
+handful	O	O
+of	O	O
+weekend	O	O
+tickets	O	O
+left	O	O
+,	O	O
+so	O	O
+final	O	O
+chance	O	O
+to	O	O
+book	O	O
+!	O	O
+More	O	O
+info	O	O
+:	O	O
+
+IMGID:O_236
+More	O	O
+photos	O	O
+of	O	O
+Justin	B-person	B-musician
+Bieber	I-person	I-musician
+spotted	O	O
+out	O	O
+yesterday	O	O
+in	O	O
+Switzerland	B-location	B-country
+.	O	O
+(	O	O
+June	O	O
+12	O	O
+)	O	O
+
+IMGID:O_4136
+Naomi	B-person	B-actor
+Campbell	I-person	I-actor
+|	O	O
+Vogue	B-art	B-magazine
+Italia	I-art	I-magazine
+,	O	O
+Photos	O	O
+by	O	O
+Steven	B-person	B-artist
+Meisel	I-person	I-artist
+.	O	O
+Rich	O	O
+bitch	O	O
+giving	O	O
+looks	O	O
+.	O	O
+
+IMGID:67854
+RT	O	O
+@	O	O
+msnbc	O	O
+:	O	O
+Remember	O	O
+Malcolm	B-person	B-politician
+X	I-person	I-politician
+on	O	O
+the	O	O
+50th	O	O
+anniversary	O	O
+of	O	O
+his	O	O
+death	O	O
+.	O	O
+Photos	O	O
+:	O	O
+http	O	O
+:	O	O
+/	O	O
+/	O	O
+t	O	O
+.	O	O
+co	O	O
+/	O	O
+QOJcnYJXYS	O	O
+(	O	O
+Yearwood	O	O
+/	O	O
+3	O	O
+Lions	O	O
+/	O	O
+Getty	O	O
+)	O	O
+
+IMGID:35912
+RT	O	O
+@	O	O
+jeffrae	O	O
+:	O	O
+There	O	O
+are	O	O
+literally	O	O
+THOUSANDS	O	O
+outside	O	O
+the	O	O
+Capitol	B-building	B-building_other
+#	O	O
+saveMI	O	O
+#	O	O
+1u	O	O
+
+IMGID:888399
+Happy	O	O
+Fourth	O	O
+and	O	O
+remeber	O	O
+to	O	O
+keep	O	O
+dogs	O	O
+inside	O	O
+during	O	O
+the	O	O
+fireworks	O	O
+!	O	O
+x	O	O
+Cheray	B-person	B-artist
+
+IMGID:221490
+RT	O	O
+@	O	O
+Disney	O	O
+:	O	O
+Coming	O	O
+soon	O	O
+to	O	O
+a	O	O
+Disney	B-building	B-entertainment_place
+Park	I-building	I-entertainment_place
+not	O	O
+so	O	O
+far	O	O
+,	O	O
+far	O	O
+away	O	O
+:	O	O
+#	O	O
+StarWarsLand	O	O
+.	O	O
+
+IMGID:1113775
+RT	O	O
+@	O	O
+wcp	O	O
+:	O	O
+Bardo	B-person	B-businessman
+is	O	O
+raising	O	O
+money	O	O
+for	O	O
+a	O	O
+beer	O	O
+garden	O	O
+and	O	O
+dog	O	O
+park	O	O
+next	O	O
+to	O	O
+Nationals	B-location	B-park
+Park	I-location	I-park
+:	O	O
+
+IMGID:1286387
+April	O	O
+21	O	O
+,	O	O
+7	O	O
+:	O	O
+30am	O	O
+:	O	O
+Join	O	O
+master	O	O
+birder	O	O
+Allan	B-person	B-person_other
+Ridley	I-person	I-person_other
+for	O	O
+a	O	O
+FREE	O	O
+spring	O	O
+migration	O	O
+bird	O	O
+walk	O	O
+through	O	O
+the	O	O
+Zoo	O	O
+.	O	O
+
+IMGID:1368598
+RT	O	O
+@	O	O
+KekHamo	O	O
+:	O	O
+LOL	O	O
+,	O	O
+ISIS	B-organization	B-social_organization
+fan	O	O
+boys	O	O
+trying	O	O
+to	O	O
+block	O	O
+parody	O	O
+account	O	O
+@	O	O
+CaliphIbrahim	O	O
+
+IMGID:16_05_30_976
+#	O	O
+NFL	B-organization	B-sports_league
+#	O	O
+Eagles	B-organization	B-sports_team
+Flexing	O	O
+place	O	O
+-	O	O
+kicker	O	O
+Cody	B-person	B-athlete
+Parkey	I-person	I-athlete
+working	O	O
+his	O	O
+way	O	O
+back	O	O
+from	O	O
+.	O	O
+.	O	O
+.	O	O
+
+IMGID:O_3586
+Phil	B-person	B-businessman
+Knight	I-person	I-businessman
+gives	O	O
+Stephen	B-person	B-actor
+Colbert	I-person	I-actor
+a	O	O
+1	O	O
+of	O	O
+1	O	O
+Nike	B-organization	B-company
+Presto	O	O
+
+IMGID:128613
+RT	O	O
+@	O	O
+TheAtlantic	O	O
+:	O	O
+Russian	O	O
+opposition	O	O
+leader	O	O
+Boris	B-person	B-politician
+Nemtsov	I-person	I-politician
+gunned	O	O
+down	O	O
+in	O	O
+Moscow	B-location	B-city
+
+IMGID:66042
+RT	O	O
+@	O	O
+EntrepreneurQ	O	O
+:	O	O
+Managing	O	O
+by	O	O
+trying	O	O
+to	O	O
+be	O	O
+liked	O	O
+is	O	O
+the	O	O
+path	O	O
+to	O	O
+ruin	O	O
+—	O	O
+Dick	B-person	B-businessman
+Costolo	I-person	I-businessman
+
+IMGID:364085
+RT	O	O
+@	O	O
+KResearcher	O	O
+:	O	O
+More	O	O
+of	O	O
+Ngong	B-location	B-location_other
+Hills	I-location	I-location_other
+
+IMGID:O_2593
+THREAD	O	O
+:	O	O
+HOW	O	O
+TO	O	O
+BE	O	O
+A	O	O
+LADY	B-person	B-musician
+GAGA	I-person	I-musician
+INSIDER	O	O
+
+IMGID:O_3659
+Am	O	O
+I	O	O
+high	O	O
+?	O	O
+Or	O	O
+is	O	O
+this	O	O
+nigga	O	O
+Donald	B-person	B-politician
+Trump	I-person	I-politician
+watching	O	O
+me	O	O
+shit	O	O
+😳	O	O
+😐	O	O
+
+IMGID:17_01_23639
+35	O	O
+th	O	O
+Fajr	B-event	B-festival
+Film	I-event	I-festival
+Festival	I-event	I-festival
+kicks	O	O
+off	O	O
+in	O	O
+Tehran	B-location	B-city
+
+IMGID:16_05_27_592
+A	O	O
+Novel	O	O
+about	O	O
+College	O	O
+Basketball	O	O
+and	O	O
+Other	O	O
+Games	O	O
+Young	O	O
+Men	O	O
+Play	O	O
+#	O	O
+Read	O	O
+Hardwood	O	O
+@	O	O
+mikeconsol	B-person	B-author
+
+IMGID:16_05_22_981
+Barnwell	B-person	B-author
+'	O	O
+s	O	O
+offseason	O	O
+report	O	O
+cards	O	O
+for	O	O
+all	O	O
+32	O	O
+NFL	B-organization	B-sports_league
+teams	O	O
+.	O	O
+.	O	O
+.	O	O
+
+IMGID:16_05_20_41
+Here	O	O
+are	O	O
+some	O	O
+#	O	O
+dates	O	O
+for	O	O
+your	O	O
+#	O	O
+diary	O	O
+for	O	O
+#	O	O
+events	O	O
+and	O	O
+#	O	O
+festivals	O	O
+in	O	O
+#	O	O
+2016	O	O
+
+IMGID:21635
+RT	O	O
+@	O	O
+TattooGirlsMag	O	O
+:	O	O
+Tattooed	O	O
+girl	O	O
+Kristen	B-person	B-artist
+Leanne	I-person	I-artist
+
+IMGID:731776
+RT	O	O
+@	O	O
+bulutangkisRI	O	O
+:	O	O
+Jan	B-person	B-athlete
+O	I-person	I-athlete
+Jorgensen	I-person	I-athlete
+(	O	O
+The	O	O
+Winner	O	O
+)	O	O
+and	O	O
+Kenichi	B-person	B-athlete
+Tago	I-person	I-athlete
+(	O	O
+Runner	O	O
+Up	O	O
+)	O	O
+of	O	O
+MS	O	O
+#	O	O
+IndonesiaSSP	O	O
+2014	O	O
+.	O	O
+Congrats	O	O
+!	O	O
+
+IMGID:16_05_03_89
+The	O	O
+spring	O	O
+choir	O	O
+concert	O	O
+is	O	O
+underway	O	O
+.	O	O
+The	O	O
+freshman	O	O
+boys	O	O
+choir	O	O
+showing	O	O
+off	O	O
+their	O	O
+new	O	O
+moves	O	O
+and	O	O
+strong	O	O
+voices	O	O
+!	O	O
+
+IMGID:30932
+RT	O	O
+@	O	O
+GrowthHackers	O	O
+:	O	O
+Unbounce	B-organization	B-company
+CEO	O	O
+Rick	B-person	B-businessman
+Perreault	I-person	I-businessman
+Talks	O	O
+About	O	O
+Using	O	O
+Content	O	O
+To	O	O
+Grow	O	O
+His	O	O
+Business	O	O
+
+IMGID:70716
+RT	O	O
+@	O	O
+amandakaschube	O	O
+:	O	O
+Chris	B-person	B-athlete
+Sale	I-person	I-athlete
+vs	O	O
+.	O	O
+Mark	B-person	B-athlete
+Buehrle	I-person	I-athlete
+;	O	O
+White	B-organization	B-sports_team
+Sox	I-organization	I-sports_team
+win	O	O
+4	O	O
+-	O	O
+2	O	O
+.	O	O
+Photos	O	O
+by	O	O
+@	O	O
+briancassella	O	O
+:	O	O
+
